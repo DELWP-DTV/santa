@@ -7,6 +7,15 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
+  - name: Vicmap_Transport
+    url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Transport/MapServer
+    method: POST
+  - name: esri mapserver non-existant layer test
+    url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Transport/MapServer/1234
+    method: POST
+  - name: Vicmap_Transport Road Layer 1
+    url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Transport/MapServer/1
+    method: POST
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -15,11 +24,13 @@ status-website:
   baseUrl: /santa
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: DTV Santa
-  introTitle: "Uptime status of data assets provided in the DTV platform"
+  introTitle: "Data Catalogue Uptime Status"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
+    - title: DTV
+      href: https://vic.digitaltwin.terria.io/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
