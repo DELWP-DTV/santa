@@ -30,7 +30,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /santa
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://vic.digitaltwin.terria.io/images/DTV-brand.svg
   name: DTV Santa
   introTitle: "Data Catalogue Uptime Status"
   introMessage: The status page for the Digital Twin Victoria Platform Catalogue. Data assets are checked every 12 hours.
@@ -42,9 +42,6 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
-
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
@@ -53,7 +50,7 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "1 */6 * * *"
-
+# To change the status check schedule, modify the uptime parameter 
 
 i18n:
   footer: This page is brought to you by DTV
