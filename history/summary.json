@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 73,
-    "timeDay": 73,
-    "timeWeek": 73,
-    "timeMonth": 73,
-    "timeYear": 73,
+    "time": 74,
+    "timeDay": 74,
+    "timeWeek": 74,
+    "timeMonth": 74,
+    "timeYear": 74,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 207,
-    "timeWeek": 207,
-    "timeMonth": 207,
-    "timeYear": 207,
+    "time": 195,
+    "timeDay": 195,
+    "timeWeek": 195,
+    "timeMonth": 195,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 911,
-    "timeDay": 911,
-    "timeWeek": 911,
-    "timeMonth": 911,
-    "timeYear": 911,
+    "time": 861,
+    "timeDay": 861,
+    "timeWeek": 861,
+    "timeMonth": 861,
+    "timeYear": 861,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/enterprise.mapshare.vic.gov.au.ico",
     "slug": "esri-mapserver-non-existant-layer-test",
     "status": "down",
-    "uptime": "15.00%",
-    "uptimeDay": "15.00%",
-    "uptimeWeek": "15.00%",
-    "uptimeMonth": "15.00%",
-    "uptimeYear": "15.00%",
-    "time": 477,
-    "timeDay": 477,
-    "timeWeek": 477,
-    "timeMonth": 477,
-    "timeYear": 477,
+    "uptime": "14.05%",
+    "uptimeDay": "14.05%",
+    "uptimeWeek": "14.05%",
+    "uptimeMonth": "14.05%",
+    "uptimeYear": "14.05%",
+    "time": 440,
+    "timeDay": 440,
+    "timeWeek": 440,
+    "timeMonth": 440,
+    "timeYear": 440,
     "dailyMinutesDown": {
-      "2023-06-26": 61
+      "2023-06-26": 66
     }
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 252,
-    "timeWeek": 252,
-    "timeMonth": 252,
-    "timeYear": 252,
+    "time": 239,
+    "timeDay": 239,
+    "timeWeek": 239,
+    "timeMonth": 239,
+    "timeYear": 239,
     "dailyMinutesDown": {}
   }
 ]
