@@ -1,0 +1,9 @@
+  - name: Vicmap_Transport
+    url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Transport/MapServer
+    method: POST
+  - name: esri mapserver non-existant layer test
+    url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Transport/MapServer/1234
+    method: POST
+  - name: Vicmap_Transport Road Layer 1
+    url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Transport/MapServer/1
+    method: POST
