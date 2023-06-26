@@ -1,6 +1,8 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
+# DTV Santa
 
-This repository contains the open-source uptime monitor and status page for [alex-vic-geo](https://demo.upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for DELWP_DTV.
+
+[**Visit our status website →**](https://delwp-dtv.github.io/santa/)
 
 [![Uptime CI](https://github.com/alex-vic-geo/santa/workflows/Uptime%20CI/badge.svg)](https://github.com/alex-vic-geo/santa/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/alex-vic-geo/santa/workflows/Response%20Time%20CI/badge.svg)](https://github.com/alex-vic-geo/santa/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -21,7 +23,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://demo.upptime.js.org)
+
 
 ## 📄 License
 
