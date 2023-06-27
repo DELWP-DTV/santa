@@ -25,6 +25,10 @@ sites:
     method: POST
     __dangerous__body_down: "Could not access any server machines. Please contact your system"
     assignees: alex-vic-geo
+  - name: 'Vicmap Vegetation - Tree Extent'
+    url: 'https://tiles.arcgis.com/tiles/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Vegetation_Tree_Extent/MapServer?view=wmtsview&cacheKey=95615180464c4085'
+    method: POST
+    __dangerous__body_down: "Could not access any server machines. Please contact your system"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
