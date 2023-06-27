@@ -2,10 +2,6 @@ owner: DELWP-DTV
 repo: santa
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
   - name: Vicmap_Transport
     url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Transport/MapServer
     method: POST
@@ -24,6 +20,11 @@ sites:
     __dangerous__body_down: "Could not access any server machines. Please contact your system"
     assignees:
       - alex-vic-geo
+  - name: Sunshine Activity Centre
+    url: https://services7.arcgis.com/fVJQ0uhT9L4zp35f/arcgis/rest/services/ActivityArea_gdb/FeatureServer/0
+    method: POST
+    __dangerous__body_down: "Could not access any server machines. Please contact your system"
+    assignees: alex-vic-geo
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -43,6 +44,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 workflowSchedule:
+# To change the status check schedule, modify the uptime parameter 
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
   staticSite: "0 1 * * *"
@@ -50,7 +52,7 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "1 */6 * * *"
-# To change the status check schedule, modify the uptime parameter 
 
-i18n:
-  footer: This page is brought to you by DTV
+
+#i18n:
+#  footer: [Data attribution](https://www.land.vic.gov.au/maps-and-spatial/digital-twin-victoria/dtv-platform/data-and-terms#heading-4_) | [Terms of Use](https://www.land.vic.gov.au/maps-and-spatial/digital-twin-victoria/dtv-platform/data-and-terms#heading-6) 
