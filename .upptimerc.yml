@@ -426,7 +426,7 @@ sites:
   url: https://tiles.arcgis.com/tiles/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Vegetation_Tree_Extent/MapServer
   method: POST
   __dangerous__body_down: Could not access any server machines.
-  - name: precinct-structure-plan-boundaries
+- name: precinct-structure-plan-boundaries
   url: https://services5.arcgis.com/DmRfik4clMVydXO3/arcgis/rest/services/PSP_Boundaries/FeatureServer/0/query?outFields=*&where=1%3D1
   method: POST
   __dangerous__body_down: Could not access any server machines.
@@ -571,7 +571,7 @@ status-website:
   logoUrl: https://vic.digitaltwin.terria.io/images/DTV-brand.svg
   name: DTV Santa
   introTitle: "Data Catalogue Uptime Status"
-  introMessage: The status page for the Digital Twin Victoria Platform Catalogue. Data assets are checked every 12 hours.
+  introMessage: The status page for the Digital Twin Victoria Platform Catalogue. You can use SANTA to automate the process of checking web service endpoints in a catalog. It can analyze the endpoints, test their functionality, and provide valuable insights and reports. SANTA can be a valuable tool for developers and quality assurance teams to ensure the smooth operation of web services in a catalog. Data assets are checked every 12 hours.
   navbar:
     - title: Status
       href: /
