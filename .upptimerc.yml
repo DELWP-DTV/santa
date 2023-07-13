@@ -426,6 +426,142 @@ sites:
   url: https://tiles.arcgis.com/tiles/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Vegetation_Tree_Extent/MapServer
   method: POST
   __dangerous__body_down: Could not access any server machines.
+  - name: precinct-structure-plan-boundaries
+  url: https://services5.arcgis.com/DmRfik4clMVydXO3/arcgis/rest/services/PSP_Boundaries/FeatureServer/0/query?outFields=*&where=1%3D1
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicroads-declared-roads3
+  url: https://services2.arcgis.com/18ajPSI0b3ppsmMt/arcgis/rest/services/VicRoads_Declared_Roads/FeatureServer/0
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: traffic-lights1
+  url: https://services2.arcgis.com/18ajPSI0b3ppsmMt/arcgis/rest/services/traffic_lights/FeatureServer/0
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: traffic-volume
+  url: https://vicdata.vicroads.vic.gov.au/server/rest/services/Operations_Traffic/FeatureServer/0
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicvoads-road-use-hierarchy
+  url: https://services2.arcgis.com/18ajPSI0b3ppsmMt/arcgis/rest/services/Road_Use_Hierarchy/FeatureServer/0/query?outFields=*&where=1%3D1
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-transport-rest-api
+  url: https://services6.arcgis.com/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Transport/FeatureServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-transport-rest-api
+  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Transport/MapServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-position-rest-api
+  url: https://services6.arcgis.com/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Position/FeatureServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-position-rest-api
+  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Position/MapServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-planning-api
+  url: https://services6.arcgis.com/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Planning/FeatureServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-planning-api
+  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Planning/MapServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-lite-rest-api
+  url: https://services6.arcgis.com/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Lite/FeatureServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-lite-rest-api
+  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Lite/MapServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-index-rest-api
+  url: https://services6.arcgis.com/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Index/FeatureServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-index-rest-api
+  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Index/MapServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-hydro-rest-api
+  url: https://services6.arcgis.com/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Hydro/FeatureServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-hydro-rest-api
+  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Hydro/MapServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-geomark-rest-api
+  url: https://services6.arcgis.com/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Geomark/FeatureServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-geomark-rest-api
+  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Geomark/MapServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-features-of-interest-rest-api
+  url: https://services6.arcgis.com/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Features_of_Interest/FeatureServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-features-of-interest-rest-api
+  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Features_of_Interest/MapServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-elevation-rest-api
+  url: https://services6.arcgis.com/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Elevation_METRO_1_to_5_metre/FeatureServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-elevation-rest-api
+  url: https://services6.arcgis.com/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Elevation_STATEWIDE_10_to_20_metre/FeatureServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-elevation-rest-api
+  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Elevation_STATEWIDE_10_to_20_metre/MapServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-elevation-rest-api
+  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Elevation_METRO_1_to_5_metre/MapServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-crown-land-tenure-rest-api
+  url: https://services6.arcgis.com/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Crown_Land_Tenure/FeatureServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-crown-land-tenure-rest-api
+  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Crown_Land_Tenure/MapServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-admin-rest-api
+  url: https://services6.arcgis.com/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Admin/FeatureServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-admin-rest-api
+  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Admin/MapServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-address-rest-api
+  url: https://services6.arcgis.com/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Address/FeatureServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: vicmap-address-rest-api
+  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Address/MapServer
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: structure-height-clearance
+  url: https://maps.nhvr.gov.au/agsm1/rest/services/vicroads/HVR_AGOL_OpenData/MapServer/46
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: public-open-space-400m-walkable-catchment
+  url: https://services5.arcgis.com/DmRfik4clMVydXO3/arcgis/rest/services/OS_WalkableCatchment_400m_SP/FeatureServer/0/query?outFields=*&where=1%3D1
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: open-space
+  url: https://services5.arcgis.com/DmRfik4clMVydXO3/arcgis/rest/services/VPA_Draft_Open_Space_Data/FeatureServer/0/query?outFields=*&where=1%3D1
+  method: POST
+  __dangerous__body_down: Could not access any server machines.
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
