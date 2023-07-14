@@ -1,7 +1,7 @@
-url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Hydro/MapServer
-status: up
-code: 200
-responseTime: 293
-lastUpdated: 2023-07-14T01:56:01.837Z
+url: https://services6.arcgis.com/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Hydro/FeatureServer
+status: down
+code: 411
+responseTime: 254
+lastUpdated: 2023-07-14T06:27:03.084Z
 startTime: Thu Jul 13 2023 06:48:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
