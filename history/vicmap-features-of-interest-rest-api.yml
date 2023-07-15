@@ -1,7 +1,7 @@
-url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Features_of_Interest/MapServer
-status: up
-code: 200
-responseTime: 248
-lastUpdated: 2023-07-15T18:24:09.050Z
+url: https://services6.arcgis.com/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Features_of_Interest/FeatureServer
+status: down
+code: 411
+responseTime: 8
+lastUpdated: 2023-07-15T23:16:37.288Z
 startTime: Thu Jul 13 2023 06:49:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
