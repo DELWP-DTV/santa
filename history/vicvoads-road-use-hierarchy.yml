@@ -1,7 +1,7 @@
 url: https://services2.arcgis.com/18ajPSI0b3ppsmMt/arcgis/rest/services/Road_Use_Hierarchy/FeatureServer/0/query?outFields=*&where=1%3D1
 status: down
 code: 411
-responseTime: 78
-lastUpdated: 2023-07-17T23:16:08.252Z
+responseTime: 88
+lastUpdated: 2023-07-18T23:15:41.329Z
 startTime: Thu Jul 13 2023 06:48:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
