@@ -2,17 +2,13 @@ owner: DELWP-DTV
 repo: santa
 
 sites:
-- name: Vicmap Property Easements and Road Casements (aggregated)
-  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Property_Easements_and_Road_Casements/MapServer
-  method: POST
-  __dangerous__body_down: Could not access any server machines.
 - name: Vicmap Property Easements and Road Casements
   url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Property_Easements_and_Road_Casements/MapServer
   method: POST
   __dangerous__body_down: Could not access any server machines.
 - name: Sunshine Activity Centre
   url: https://services7.arcgis.com/fVJQ0uhT9L4zp35f/arcgis/rest/services/ActivityArea_gdb/FeatureServer/0
-  method: POST
+  method: GET
   __dangerous__body_down: Could not access any server machines.
 - name: 'Geelong - Weather Station Sensors '
   url: https://www.geelongdataexchange.com.au
@@ -20,14 +16,6 @@ sites:
   __dangerous__body_down: Could not access any server machines.
 - name: Australian Private Hospitals August 2020
   url: https://services5.arcgis.com/OvOcYIrJnM97ABBA/arcgis/rest/services/Australian_Private_Hospitals_August_2019_WFL1/FeatureServer/0
-  method: POST
-  __dangerous__body_down: Could not access any server machines.
-- name: DataVic Open Data Portal
-  url: https://discover.data.vic.gov.au/
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
-- name: PTV Train Track Centreline - WMS
-  url: https://discover.data.vic.gov.au
   method: GET
   __dangerous__body_down: Could not access any server machines.
 - name: Vicmap Vegetation - Tree Extent
@@ -42,14 +30,6 @@ sites:
   url: https://data.ballarat.vic.gov.au
   method: GET
   __dangerous__body_down: Could not access any server machines.
-- name: PTV Regional Train Stations - WMS
-  url: https://discover.data.vic.gov.au
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
-- name: PTV SkyBus Stops - WMS
-  url: https://discover.data.vic.gov.au
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
 - name: Vicmap Vegetation - Tree Density
   url: https://tiles.arcgis.com/tiles/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Vegetation_Tree_Density_Tile/MapServer?view=wmtsview&cacheKey=9326ef767e6c9d9c
   method: POST
@@ -57,10 +37,6 @@ sites:
 - name: 'Ballarat Council - Temperature Level '
   url: https://data.ballarat.vic.gov.au
   method: GET
-  __dangerous__body_down: Could not access any server machines.
-- name: Vicmap Crown Land Tenure (aggregated)
-  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Crown_Land_Tenure/MapServer
-  method: POST
   __dangerous__body_down: Could not access any server machines.
 - name: Vicmap Crown Land Tenure
   url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Crown_Land_Tenure/MapServer
@@ -70,29 +46,13 @@ sites:
   url: https://www.connectgh.com.au
   method: GET
   __dangerous__body_down: Could not access any server machines.
-- name: ABS.Stat (Beta)
-  url: https://api.data.abs.gov.au
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
-- name: Vicmap Features of Interest (aggregated)
-  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Features_of_Interest/MapServer
-  method: POST
-  __dangerous__body_down: Could not access any server machines.
 - name: Vicmap Features of Interest
   url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Features_of_Interest/MapServer
   method: POST
   __dangerous__body_down: Could not access any server machines.
-- name: Planning scheme zones - Vicmap Planning - WMS
-  url: https://discover.data.vic.gov.au
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
 - name: ABS SEIFA IEO by SA1 2016
   url: https://map.aurin.org.au/geoserver/ows
   method: GET
-  __dangerous__body_down: Could not access any server machines.
-- name: Vicmap Position (aggregated)
-  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Position/MapServer
-  method: POST
   __dangerous__body_down: Could not access any server machines.
 - name: Vicmap Position
   url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Position/MapServer
@@ -100,10 +60,6 @@ sites:
   __dangerous__body_down: Could not access any server machines.
 - name: 2020 NBN Connections by Technology Type
   url: https://programs.communications.gov.au/geoserver/national-broadband-network/wms
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
-- name: PTV Train Corridor Centreline - WMS
-  url: https://discover.data.vic.gov.au
   method: GET
   __dangerous__body_down: Could not access any server machines.
 - name: Victorian Land Use Information System 2016-2017
@@ -114,77 +70,33 @@ sites:
   url: https://map.aurin.org.au/geoserver/ows
   method: GET
   __dangerous__body_down: Could not access any server machines.
-- name: PTV Regional Coach Routes (V/Line) - WMS
-  url: https://discover.data.vic.gov.au
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
 - name: Portals
   url: https://terria-catalogs-public.storage.googleapis.com/common/aus-gov-open-data/vic/prod.json
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
-- name: PTV Metro Bus Routes - WMS
-  url: https://discover.data.vic.gov.au
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
-- name: PTV SkyBus Routes (Airport Service) - WMS
-  url: https://discover.data.vic.gov.au
   method: GET
   __dangerous__body_down: Could not access any server machines.
 - name: Education Facilities
   url: https://services.ga.gov.au/gis/rest/services/Foundation_Facilities_Points/MapServer/0
   method: POST
   __dangerous__body_down: Could not access any server machines.
-- name: PTV Tram Track Centreline - WMS
-  url: https://discover.data.vic.gov.au
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
-- name: Vicmap Planning (aggregated)
-  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Planning/MapServer
-  method: POST
-  __dangerous__body_down: Could not access any server machines.
 - name: Vicmap Planning
   url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Planning/MapServer
-  method: POST
-  __dangerous__body_down: Could not access any server machines.
-- name: Public Land Management (PLM25) - WMS
-  url: https://discover.data.vic.gov.au
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
-- name: Vicmap Admin (aggregated)
-  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Admin/MapServer
   method: POST
   __dangerous__body_down: Could not access any server machines.
 - name: Vicmap Admin
   url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Admin/MapServer
   method: POST
   __dangerous__body_down: Could not access any server machines.
-- name: Parks and Conservation Reserves (PARKRES) - WMS
-  url: https://discover.data.vic.gov.au
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
 - name: 'Ballarat Council - Humidity Level '
   url: https://data.ballarat.vic.gov.au
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
-- name: PTV Metro Train Stations - WMS
-  url: https://discover.data.vic.gov.au
   method: GET
   __dangerous__body_down: Could not access any server machines.
 - name: Watercourse Discharge
   url: http://www.bom.gov.au/waterdata/services
   method: GET
   __dangerous__body_down: Could not access any server machines.
-- name: ABS.Stat (Beta)
-  url: https://api.data.abs.gov.au
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
 - name: Geelong - Parking sensors
   url: https://www.geelongdataexchange.com.au
   method: GET
-  __dangerous__body_down: Could not access any server machines.
-- name: Vicmap Transport (aggregated)
-  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Transport/MapServer
-  method: POST
   __dangerous__body_down: Could not access any server machines.
 - name: Vicmap Transport
   url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Transport/MapServer
@@ -202,33 +114,17 @@ sites:
   url: https://www.connectgh.com.au
   method: GET
   __dangerous__body_down: Could not access any server machines.
-- name: Police Station (VMFEAT.GEOMARK_POINT) - WMS
-  url: https://discover.data.vic.gov.au
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
 - name: Moreland Tree Ledger
   url: https://treeledger.com.au/load_polygon_current
   method: GET
   __dangerous__body_down: Could not access any server machines.
 - name: City of Melbourne Pedestrian Traffic Counter
-  url: https://data.melbourne.vic.gov.au/api/records/1.0/search/?rows=2000&sort=date_time&order=DESC&dataset=pedestrian-counting-system-past-hour-counts-per-minute&timezone=Australia%2FSydney&lang=en
+  url: https://data.melbourne.vic.gov.au/api/records/1.0/search/?rows=2000&order=DESC&dataset=pedestrian-counting-system-past-hour-counts-per-minute&timezone=Australia%2FSydney&lang=en
   method: GET
-  __dangerous__body_down: Could not access any server machines.
-- name: Vicmap Parcel (aggregated)
-  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Parcel/MapServer
-  method: POST
   __dangerous__body_down: Could not access any server machines.
 - name: Vicmap Parcel
   url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Parcel/MapServer
   method: POST
-  __dangerous__body_down: Could not access any server machines.
-- name: Road Crashes for five Years - Victoria - GeoJSON
-  url: https://discover.data.vic.gov.au
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
-- name: "DTV Terrain Version 2 \u2013 December 2022"
-  url: https://storage.googleapis.com/vic-datasets-public/85b71982-f5fe-4093-b4e4-fd2e50198fba/v2
-  method: GET
   __dangerous__body_down: Could not access any server machines.
 - name: Watercourse Discharge
   url: http://www.bom.gov.au/waterdata/services
@@ -238,21 +134,9 @@ sites:
   url: http://www.bom.gov.au/waterdata/services
   method: GET
   __dangerous__body_down: Could not access any server machines.
-- name: PTV Night Bus Stops - WMS
-  url: https://discover.data.vic.gov.au
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
-- name: Vicmap Property (aggregated)
-  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Property/MapServer
-  method: POST
-  __dangerous__body_down: Could not access any server machines.
 - name: Vicmap Property
   url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Property/MapServer
   method: POST
-  __dangerous__body_down: Could not access any server machines.
-- name: PTV Metro Bus Stops - WMS
-  url: https://discover.data.vic.gov.au
-  method: GET
   __dangerous__body_down: Could not access any server machines.
 - name: AURIN
   url: https://map.aurin.org.au/geoserver/ows
@@ -260,23 +144,15 @@ sites:
   __dangerous__body_down: Could not access any server machines.
 - name: SHWEP Activity Centre
   url: https://services7.arcgis.com/fVJQ0uhT9L4zp35f/arcgis/rest/services/ActivityArea_gdb/FeatureServer/2
-  method: POST
+  method: GET
   __dangerous__body_down: Could not access any server machines.
 - name: ABS SEIFA IRSD by SA1 2016
   url: https://map.aurin.org.au/geoserver/ows
   method: GET
   __dangerous__body_down: Could not access any server machines.
-- name: PTV Night Bus Routes - WMS
-  url: https://discover.data.vic.gov.au
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
 - name: Southern Grampians Council - Water Levels
   url: https://www.connectgh.com.au
   method: GET
-  __dangerous__body_down: Could not access any server machines.
-- name: Vicmap Address (aggregated)
-  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Address/MapServer
-  method: POST
   __dangerous__body_down: Could not access any server machines.
 - name: Vicmap Address
   url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Address/MapServer
@@ -290,10 +166,6 @@ sites:
   url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Vegetation_Tree_Urban/MapServer
   method: POST
   __dangerous__body_down: Could not access any server machines.
-- name: Vicmap Geomark (aggregated)
-  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Geomark/MapServer
-  method: POST
-  __dangerous__body_down: Could not access any server machines.
 - name: Vicmap Geomark
   url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Geomark/MapServer
   method: POST
@@ -302,53 +174,25 @@ sites:
   url: https://map.aurin.org.au/geoserver/ows
   method: GET
   __dangerous__body_down: Could not access any server machines.
-- name: Victoria Flood Database - Defined and Declared Floodways - WMS
-  url: https://discover.data.vic.gov.au
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
 - name: Ballarat Council - Noise Sensors
   url: https://data.ballarat.vic.gov.au
   method: GET
   __dangerous__body_down: Could not access any server machines.
-- name: Vicmap Elevation - Statewide (10m to 20m) (aggregated)
-  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Elevation_STATEWIDE_10_to_20_metre/MapServer
-  method: POST
-  __dangerous__body_down: Could not access any server machines.
 - name: Vicmap Elevation - Statewide (10m to 20m)
   url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Elevation_STATEWIDE_10_to_20_metre/MapServer
-  method: POST
-  __dangerous__body_down: Could not access any server machines.
-- name: PTV Regional Bus Routes - WMS
-  url: https://discover.data.vic.gov.au
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
-- name: Vicmap Lite (aggregated)
-  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Lite/MapServer
   method: POST
   __dangerous__body_down: Could not access any server machines.
 - name: Vicmap Lite
   url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Lite/MapServer
   method: POST
   __dangerous__body_down: Could not access any server machines.
-- name: PTV Metro Tram Stops - WMS
-  url: https://discover.data.vic.gov.au
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
-- name: Vicmap Elevation - Metro (1m to 5m) (aggregated)
-  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Elevation_METRO_1_to_5_metre/MapServer
-  method: POST
-  __dangerous__body_down: Could not access any server machines.
 - name: Vicmap Elevation - Metro (1m to 5m)
   url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Elevation_METRO_1_to_5_metre/MapServer
   method: POST
   __dangerous__body_down: Could not access any server machines.
-- name: PTV Metro Tram Routes - WMS
-  url: https://discover.data.vic.gov.au
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
 - name: Significant Planning Register
   url: https://services7.arcgis.com/fVJQ0uhT9L4zp35f/arcgis/rest/services/SunshineActivityPlanningRegister_250722_gdb/FeatureServer/3
-  method: POST
+  method: GET
   __dangerous__body_down: Could not access any server machines.
 - name: 'Ballarat Council - Water Level '
   url: https://data.ballarat.vic.gov.au
@@ -360,47 +204,19 @@ sites:
   __dangerous__body_down: Could not access any server machines.
 - name: Australian Public Hospitals 2018-2019
   url: https://services5.arcgis.com/OvOcYIrJnM97ABBA/arcgis/rest/services/Australian_Public_Hospitals_WFL1/FeatureServer/0
-  method: POST
+  method: GET
   __dangerous__body_down: Could not access any server machines.
 - name: Moreland Tree Ledger - Losses
   url: https://treeledger.com.au/load_polygon_loss
   method: GET
   __dangerous__body_down: Could not access any server machines.
-- name: Vicmap Index (aggregated)
-  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Index/MapServer
-  method: POST
-  __dangerous__body_down: Could not access any server machines.
 - name: Vicmap Index
   url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Index/MapServer
   method: POST
   __dangerous__body_down: Could not access any server machines.
-- name: Metro Trains
-  url: https://data-exchange-api.vicroads.vic.gov.au/opendata/v1/gtfsr/metrotrain-vehicleposition-updates
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
-- name: Address - Vicmap Address - WMS
-  url: https://discover.data.vic.gov.au
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
-- name: PTV Regional Coach Stops - WMS
-  url: https://discover.data.vic.gov.au
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
-- name: Local Government Area Boundaries (Property) 1:25,000 - Vicmap Admin - WMS
-  url: https://discover.data.vic.gov.au
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
 - name: St Albans Activity Centre
   url: https://services7.arcgis.com/fVJQ0uhT9L4zp35f/arcgis/rest/services/ActivityArea_gdb/FeatureServer/1
-  method: POST
-  __dangerous__body_down: Could not access any server machines.
-- name: Local Government Area Boundaries (Road) (polygon) - Vicmap Admin - WMS
-  url: https://discover.data.vic.gov.au
   method: GET
-  __dangerous__body_down: Could not access any server machines.
-- name: Vicmap Hydro (aggregated)
-  url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Hydro/MapServer
-  method: POST
   __dangerous__body_down: Could not access any server machines.
 - name: Vicmap Hydro
   url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Hydro/MapServer
@@ -422,10 +238,6 @@ sites:
   url: https://treeledger.com.au/open_leaf/current_loss
   method: GET
   __dangerous__body_down: Could not access any server machines.
-- name: Merri-bek Tree Ledger - Growth
-  url: https://dt-geoserver.terria.io/geoserver/vic/wms
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
 - name: national-datasets
   url: https://terria-catalogs-public.storage.googleapis.com/nationalmap/prod.json
   method: GET
@@ -437,6 +249,10 @@ sites:
 - name: Tree Extent
   url: https://tiles.arcgis.com/tiles/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Vegetation_Tree_Extent/MapServer
   method: POST
+  __dangerous__body_down: Could not access any server machines.
+- name: Tree Urban
+  url: https://dt-geoserver.terria.io/geoserver/vic/wms
+  method: GET
   __dangerous__body_down: Could not access any server machines.
 
 status-website:
