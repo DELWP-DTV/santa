@@ -256,9 +256,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /santa
-  logoUrl: https://github.com/DELWP-DTV/santa/blob/master/assets/DTV_logo.png
+  logoUrl: https://raw.githubusercontent.com/DELWP-DTV/santa/master/assets/DTV_logo.png
   name: DTV Santa
-  favicon: https://github.com/DELWP-DTV/santa/blob/master/assets/dtv-ICON.jpg
+  favicon: https://raw.githubusercontent.com/DELWP-DTV/santa/master/assets/dtv-ICON.jpg
   introTitle: "Data Catalogue Uptime Status"
   introMessage: The status page for the Digital Twin Victoria Platform Catalogue. You can use SANTA to automate the process of checking web service endpoints in a catalog. It can analyze the endpoints, test their functionality, and provide valuable insights and reports. SANTA can be a valuable tool for developers and quality assurance teams to ensure the smooth operation of web services in a catalog. Data assets are checked every 12 hours.
   navbar:
