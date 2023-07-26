@@ -250,10 +250,6 @@ sites:
   url: https://tiles.arcgis.com/tiles/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Vegetation_Tree_Extent/MapServer
   method: POST
   __dangerous__body_down: Could not access any server machines.
-- name: Tree Urban
-  url: https://dt-geoserver.terria.io/geoserver/vic/wms
-  method: GET
-  __dangerous__body_down: Could not access any server machines.
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
