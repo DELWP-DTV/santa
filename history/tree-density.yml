@@ -1,7 +1,7 @@
 url: https://tiles.arcgis.com/tiles/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Vegetation_Tree_Density/VectorTileServer/tile/{z}/{y}/{x}.pbf
 status: up
 code: 200
-responseTime: 36
-lastUpdated: 2023-08-04T23:12:58.894Z
+responseTime: 80
+lastUpdated: 2023-08-05T23:12:31.407Z
 startTime: Fri Jul 07 2023 01:41:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
