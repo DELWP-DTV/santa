@@ -2,12 +2,6 @@ owner: DELWP-DTV
 repo: santa
 
 sites:
-- name: test
-  url: https://testwebpagethatdoesnotexist12345.com.au
-  method: GET
-- name: test-another
-  url: https://testwebpagethatmayormaynotexist.com.au
-  method: GET
 - name: Vicmap Property Easements and Road Casements
   url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Property_Easements_and_Road_Casements/MapServer
   method: POST
