@@ -799,17 +799,17 @@ sites:
   method: GET
   __dangerous__body_down: Could not access any server machines.
   type: esri-mapServer
-- name: national-datasets_land-cover-and-land-use_national-soil-attributes_available-water-capacity_available-water-capacity-of-the-soil-within-the-0---5-cm-depth-layer_available-water-capacity-of-the-soil-within-the-0---5-cm-depth-layer
+- name: national-datasets_land-cover-and-land-use_national-soil-attributes_available-water-capacity_available-water-capacity-of-the-soil-within-the-0---5-cm-depth-layer_available
   url: https://www.asris.csiro.au/arcgis/rest/services/TERN/AWC_ACLEP_AU_NAT_C/MapServer
   method: GET
   __dangerous__body_down: Could not access any server machines.
   type: esri-mapServer
-- name: national-datasets_land-cover-and-land-use_national-soil-attributes_bulk-density-(whole-earth)_bulk-density-of-the-soil-within-the-0---5-cm-depth-layer_bulk-density-of-the-soil-within-the-0---5-cm-depth-layer
+- name: national-datasets_land-cover-and-land-use_national-soil-attributes_bulk-density-(whole-earth)_bulk-density-of-the-soil-within-the-0---5-cm-depth-layer_bulk-density-of
   url: https://www.asris.csiro.au/arcgis/rest/services/TERN/BDW_ACLEP_AU_NAT_C/MapServer
   method: GET
   __dangerous__body_down: Could not access any server machines.
   type: esri-mapServer
-- name: national-datasets_land-cover-and-land-use_national-soil-attributes_clay-content_clay-content-of-the-soil-within-the-0---5-cm-depth-layer_clay-content-of-the-soil-within-the-0---5-cm-depth-layer
+- name: national-datasets_land-cover-and-land-use_national-soil-attributes_clay-content_clay-content-of-the-soil-within-the-0---5-cm-depth-layer_clay-content-of-the-soil
   url: https://www.asris.csiro.au/arcgis/rest/services/TERN/CLY_ACLEP_AU_NAT_C/MapServer
   method: GET
   __dangerous__body_down: Could not access any server machines.
@@ -824,37 +824,37 @@ sites:
   method: GET
   __dangerous__body_down: Could not access any server machines.
   type: esri-mapServer
-- name: national-datasets_land-cover-and-land-use_national-soil-attributes_effective-cation-exchange-capacity_effective-cation-exchange-capacity-of-the-soil-within-the-0---5-cm-depth-layer_effective-cation-exchange-capacity-of-the-soil-within-the-0---5-cm-depth-layer
+- name: national-datasets_land-cover-and-land-use_national-soil-attributes_effective-cation-exchange-capacity_effective-cation-exchange-capacity-of-the-soil-within-the-0
   url: https://www.asris.csiro.au/arcgis/rest/services/TERN/ECE_ACLEP_AU_NAT_C/MapServer
   method: GET
   __dangerous__body_down: Could not access any server machines.
   type: esri-mapServer
-- name: national-datasets_land-cover-and-land-use_national-soil-attributes_organic-carbon_organic-carbon-of-the-soil-within-the-0---5-cm-depth-layer_organic-carbon-of-the-soil-within-the-0---5-cm-depth-layer
+- name: national-datasets_land-cover-and-land-use_national-soil-attributes_organic-carbon_organic-carbon-of-the-soil-within-the-0---5-cm-depth-layer_organic-carbon-of-the-soil
   url: https://www.asris.csiro.au/arcgis/rest/services/TERN/SOC_ACLEP_AU_TRN_N/MapServer
   method: GET
   __dangerous__body_down: Could not access any server machines.
   type: esri-mapServer
-- name: national-datasets_land-cover-and-land-use_national-soil-attributes_ph-in-calcium-chloride_ph-in-calcium-chloride-of-the-soil-within-the-0---5-cm-depth-layer_ph-in-calcium-chloride-of-the-soil-within-the-0---5-cm-depth-layer
+- name: national-datasets_land-cover-and-land-use_national-soil-attributes_ph-in-calcium-chloride_ph-in-calcium-chloride-of-the-soil-within-the-0---5-cm-depth-layer_ph-in-calcium
   url: https://www.asris.csiro.au/arcgis/rest/services/TERN/PHC_ACLEP_AU_NAT_C/MapServer
   method: GET
   __dangerous__body_down: Could not access any server machines.
   type: esri-mapServer
-- name: national-datasets_land-cover-and-land-use_national-soil-attributes_sand-content_sand-content-of-the-soil-within-the-0---5-cm-depth-layer_sand-content-of-the-soil-within-the-0---5-cm-depth-layer
+- name: national-datasets_land-cover-and-land-use_national-soil-attributes_sand-content_sand-content-of-the-soil-within-the-0---5-cm-depth-layer_sand-content
   url: https://www.asris.csiro.au/arcgis/rest/services/TERN/SND_ACLEP_AU_NAT_C/MapServer
   method: GET
   __dangerous__body_down: Could not access any server machines.
   type: esri-mapServer
-- name: national-datasets_land-cover-and-land-use_national-soil-attributes_silt-content_silt-content-of-the-soil-within-the-0---5-cm-depth-layer_silt-content-of-the-soil-within-the-0---5-cm-depth-layer
+- name: national-datasets_land-cover-and-land-use_national-soil-attributes_silt-content_silt-content-of-the-soil-within-the-0---5-cm-depth-layer_silt-content
   url: https://www.asris.csiro.au/arcgis/rest/services/TERN/SLT_ACLEP_AU_NAT_C/MapServer
   method: GET
   __dangerous__body_down: Could not access any server machines.
   type: esri-mapServer
-- name: national-datasets_land-cover-and-land-use_national-soil-attributes_total-nitrogen_total-nitrogen-of-the-soil-within-the-0---5-cm-depth-layer_total-nitrogen-of-the-soil-within-the-0---5-cm-depth-layer
+- name: national-datasets_land-cover-and-land-use_national-soil-attributes_total-nitrogen_total-nitrogen-of-the-soil-within-the-0---5-cm-depth-layer_total-nitrogen
   url: https://www.asris.csiro.au/arcgis/rest/services/TERN/NTO_ACLEP_AU_NAT_C/MapServer
   method: GET
   __dangerous__body_down: Could not access any server machines.
   type: esri-mapServer
-- name: national-datasets_land-cover-and-land-use_national-soil-attributes_total-phosphorus_total-phosphorus-of-the-soil-within-the-0---5-cm-depth-layer_total-phosphorus-of-the-soil-within-the-0---5-cm-depth-layer
+- name: national-datasets_land-cover-and-land-use_national-soil-attributes_total-phosphorus_total-phosphorus-of-the-soil-within-the-0---5-cm-depth-layer_total-phosphorus-of
   url: https://www.asris.csiro.au/arcgis/rest/services/TERN/PTO_ACLEP_AU_NAT_C/MapServer
   method: GET
   __dangerous__body_down: Could not access any server machines.
