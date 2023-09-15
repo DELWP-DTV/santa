@@ -1,7 +1,7 @@
 url: https://ev-infrastructure-mapping.s3-ap-southeast-2.amazonaws.com/chargers_by_postcode_prototype.csv
 status: up
 code: 200
-responseTime: 1068
-lastUpdated: 2023-09-14T23:13:34.974Z
+responseTime: 1345
+lastUpdated: 2023-09-15T23:13:16.083Z
 startTime: 2023-09-14T00:54:53.342Z
 generator: Upptime <https://github.com/upptime/upptime>
