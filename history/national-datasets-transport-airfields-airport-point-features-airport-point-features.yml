@@ -1,7 +1,7 @@
 url: http://services.ga.gov.au/gis/rest/services/NM_Transport_Infrastructure/MapServer
 status: up
 code: 200
-responseTime: 652
-lastUpdated: 2023-09-15T23:25:04.171Z
+responseTime: 323
+lastUpdated: 2023-09-16T23:21:19.523Z
 startTime: 2023-09-14T01:02:45.102Z
 generator: Upptime <https://github.com/upptime/upptime>
