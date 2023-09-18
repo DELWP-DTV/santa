@@ -1,7 +1,7 @@
 url: http://services.ga.gov.au/gis/rest/services/OZTemp_Interpreted_Temperature_5km_Depth/MapServer
 status: up
 code: 200
-responseTime: 199
-lastUpdated: 2023-09-17T23:22:16.402Z
+responseTime: 160
+lastUpdated: 2023-09-18T23:22:49.777Z
 startTime: 2023-09-14T01:05:11.179Z
 generator: Upptime <https://github.com/upptime/upptime>
