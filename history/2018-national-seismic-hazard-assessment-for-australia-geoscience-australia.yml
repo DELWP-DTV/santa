@@ -1,7 +1,7 @@
 url: https://services.ga.gov.au/gis/rest/services/National_Seismic_Hazard_Assessment_2018/MapServer
 status: up
 code: 200
-responseTime: 1359
-lastUpdated: 2023-09-17T23:11:58.930Z
+responseTime: 900
+lastUpdated: 2023-09-18T23:12:46.071Z
 startTime: 2023-09-14T00:53:57.379Z
 generator: Upptime <https://github.com/upptime/upptime>
