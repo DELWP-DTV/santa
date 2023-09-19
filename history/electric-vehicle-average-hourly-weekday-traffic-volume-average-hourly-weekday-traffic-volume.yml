@@ -2,6 +2,6 @@ url: https://api.transport.nsw.gov.au/v1/roads/spatial?format=csv&q=%0A%20%20%20
 status: down
 code: 401
 responseTime: 141
-lastUpdated: 2023-09-18T23:13:26.992Z
+lastUpdated: 2023-09-19T23:12:56.971Z
 startTime: 2023-09-14T00:54:49.068Z
 generator: Upptime <https://github.com/upptime/upptime>
