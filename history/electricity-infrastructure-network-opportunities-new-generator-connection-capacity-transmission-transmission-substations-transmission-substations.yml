@@ -1,7 +1,7 @@
 url: https://uts-nom.herokuapp.com/capacity/published/combined-transmission-substations.csv
 status: up
 code: 200
-responseTime: 306
-lastUpdated: 2023-09-21T06:03:27.619Z
+responseTime: 281
+lastUpdated: 2023-09-21T23:16:26.898Z
 startTime: 2023-09-14T00:55:27.024Z
 generator: Upptime <https://github.com/upptime/upptime>
