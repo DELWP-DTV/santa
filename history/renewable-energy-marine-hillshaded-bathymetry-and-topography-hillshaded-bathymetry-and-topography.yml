@@ -1,7 +1,7 @@
 url: http://services.ga.gov.au/gis/services/Bathymetry_Derivatives/MapServer/WMSServer
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-21T23:38:11.537Z
+status: up
+code: 200
+responseTime: 442
+lastUpdated: 2023-09-22T09:24:08.666Z
 startTime: 2023-09-14T01:06:02.198Z
 generator: Upptime <https://github.com/upptime/upptime>
