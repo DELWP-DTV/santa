@@ -1,7 +1,7 @@
 url: http://services.ga.gov.au/gis/rest/services/Earthquake_Hazard_WM/MapServer
 status: up
 code: 200
-responseTime: 1792
-lastUpdated: 2023-10-01T23:16:32.237Z
+responseTime: 1764
+lastUpdated: 2023-10-02T23:16:28.266Z
 startTime: 2023-09-14T00:59:34.189Z
 generator: Upptime <https://github.com/upptime/upptime>
