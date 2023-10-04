@@ -1,7 +1,7 @@
 url: https://geo.abs.gov.au/arcgis/rest/services/ASGS2019/LGA/MapServer
 status: up
 code: 200
-responseTime: 909
-lastUpdated: 2023-10-03T23:17:23.857Z
+responseTime: 516
+lastUpdated: 2023-10-04T23:17:39.596Z
 startTime: 2023-09-14T01:00:15.421Z
 generator: Upptime <https://github.com/upptime/upptime>
