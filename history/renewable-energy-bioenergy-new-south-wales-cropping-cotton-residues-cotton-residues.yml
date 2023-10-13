@@ -1,7 +1,7 @@
 url: https://spatial.industry.nsw.gov.au/arcgis/rest/services/Bioenergy_Assessment/Cropping_CottonResidues/MapServer
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-10-12T23:25:08.879Z
+status: up
+code: 200
+responseTime: 919
+lastUpdated: 2023-10-13T09:23:54.388Z
 startTime: 2023-09-14T01:03:36.092Z
 generator: Upptime <https://github.com/upptime/upptime>
