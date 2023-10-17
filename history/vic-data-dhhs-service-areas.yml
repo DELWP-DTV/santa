@@ -1,7 +1,7 @@
 url: https://services.arcgis.com/B7qHofahIc9hrOqB/arcgis/rest/services/DHHS_ServiceAreas/FeatureServer/0/query?outFields=*&where=1%3D1
 status: up
 code: 200
-responseTime: 2412
-lastUpdated: 2023-10-16T23:27:14.818Z
+responseTime: 429
+lastUpdated: 2023-10-17T23:27:27.014Z
 startTime: 2023-08-16T06:34:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
