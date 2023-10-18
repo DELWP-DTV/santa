@@ -1,7 +1,7 @@
 url: https://map.aurin.org.au/geoserver/ows
-status: down
-code: 503
-responseTime: 4871
-lastUpdated: 2023-10-17T23:25:46.589Z
+status: up
+code: 200
+responseTime: 4561
+lastUpdated: 2023-10-18T23:26:11.818Z
 startTime: 2023-09-14T01:06:59.658Z
 generator: Upptime <https://github.com/upptime/upptime>
