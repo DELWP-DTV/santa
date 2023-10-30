@@ -1,7 +1,7 @@
 url: https://spatial.industry.nsw.gov.au/arcgis/rest/services/Bioenergy_Assessment/Forestry_General/MapServer
-status: down
+status: up
 code: 200
-responseTime: 2396
-lastUpdated: 2023-10-30T03:10:56.209Z
+responseTime: 240
+lastUpdated: 2023-10-30T09:24:05.253Z
 startTime: 2023-09-14T01:03:38.831Z
 generator: Upptime <https://github.com/upptime/upptime>
