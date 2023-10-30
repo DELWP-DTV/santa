@@ -1,7 +1,7 @@
 url: https://spatial.industry.nsw.gov.au/arcgis/rest/services/Bioenergy_Assessment/Horticulture_NutResidues/MapServer
-status: up
+status: down
 code: 200
-responseTime: 161
-lastUpdated: 2023-10-29T23:21:25.117Z
+responseTime: 2458
+lastUpdated: 2023-10-30T03:11:21.568Z
 startTime: 2023-09-14T01:03:40.885Z
 generator: Upptime <https://github.com/upptime/upptime>
