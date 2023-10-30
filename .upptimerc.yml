@@ -2,7 +2,7 @@ owner: DELWP-DTV
 repo: santa
 
 sites:
-- name: ' nsw marine protected areas (nsw dpi)'
+- name: 'nsw marine protected areas (nsw dpi)'
   url: https://spatial.industry.nsw.gov.au/arcgis/services/PUBLIC/Marine_Protected_Areas/MapServer/WFSServer
   method: GET
   __dangerous__body_down: Could not access any server machines.
@@ -4080,6 +4080,8 @@ status-website:
   favicon: https://raw.githubusercontent.com/DELWP-DTV/santa/master/assets/dtv-ICON.jpg
   introTitle: "Data Catalogue Uptime Status"
   introMessage: The status page for the Digital Twin Victoria Platform Catalogue. You can use SANTA to automate the process of checking web service endpoints in a catalog. It can analyze the endpoints, test their functionality, and provide valuable insights and reports. SANTA can be a valuable tool for developers and quality assurance teams to ensure the smooth operation of web services in a catalog. Data assets are checked every 12 hours.
+  # embedded powerbi report
+  customBodyHtml: <iframe title="DTV's SANTA" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=0269eb34-d860-4e6b-8ab1-d804be13ab7b&autoAuth=true&ctid=e8bdd6f7-fc18-4e48-a554-7f547927223b" frameborder="0" allowFullScreen="true"></iframe>
   navbar:
     - title: Status
       href: /
