@@ -1,7 +1,7 @@
 url: http://services.ga.gov.au/gis/rest/services/Land_Cover_WM/MapServer
 status: up
 code: 200
-responseTime: 685
-lastUpdated: 2023-11-04T23:18:32.000Z
+responseTime: 719
+lastUpdated: 2023-11-05T23:18:32.312Z
 startTime: 2023-09-14T00:59:40.668Z
 generator: Upptime <https://github.com/upptime/upptime>
