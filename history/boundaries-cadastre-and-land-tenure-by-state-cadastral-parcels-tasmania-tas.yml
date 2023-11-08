@@ -1,7 +1,7 @@
 url: http://services.thelist.tas.gov.au/arcgis/rest/services/Public/CadastreAndAdministrative/MapServer
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-07T23:14:08.175Z
+status: up
+code: 200
+responseTime: 2008
+lastUpdated: 2023-11-08T09:16:36.147Z
 startTime: 2023-09-14T00:54:17.435Z
 generator: Upptime <https://github.com/upptime/upptime>
