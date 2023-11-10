@@ -1,7 +1,7 @@
 url: https://dt-geoserver.terria.io/geoserver/ows
-status: down
-code: 502
-responseTime: 828
-lastUpdated: 2023-11-09T23:14:14.505Z
+status: up
+code: 200
+responseTime: 559
+lastUpdated: 2023-11-10T09:17:01.745Z
 startTime: 2023-09-14T00:54:50.268Z
 generator: Upptime <https://github.com/upptime/upptime>
