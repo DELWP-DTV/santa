@@ -1,7 +1,7 @@
-url: https://tiles.arcgis.com/tiles/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Vegetation_Tree_Extent/MapServer
+url: https://tiles.arcgis.com/tiles/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Vegetation_Tree_Extent/MapServer?view=wmtsview&cacheKey=95615180464c4085
 status: up
 code: 200
-responseTime: 12
-lastUpdated: 2023-11-14T00:19:38.122Z
+responseTime: 152
+lastUpdated: 2023-11-14T23:31:38.477Z
 startTime: 2023-06-27T06:15:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
