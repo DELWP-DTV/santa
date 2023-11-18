@@ -1,7 +1,7 @@
 url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Geomark/MapServer
-status: up
+status: down
 code: 200
-responseTime: 318
-lastUpdated: 2023-11-17T23:32:40.553Z
+responseTime: 393
+lastUpdated: 2023-11-18T23:29:56.688Z
 startTime: 2023-09-14T01:13:13.211Z
 generator: Upptime <https://github.com/upptime/upptime>
