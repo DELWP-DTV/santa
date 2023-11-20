@@ -1,7 +1,7 @@
 url: https://services.aremi.data61.io/aemo/v6/csv/solar
 status: up
 code: 200
-responseTime: 531
-lastUpdated: 2023-11-19T23:14:09.358Z
+responseTime: 240
+lastUpdated: 2023-11-20T23:15:23.970Z
 startTime: 2023-09-14T00:55:06.936Z
 generator: Upptime <https://github.com/upptime/upptime>
