@@ -1,7 +1,7 @@
 url: https://services.ga.gov.au/gis/rest/services/AusLAMP_TISA_Stations/MapServer
 status: up
 code: 200
-responseTime: 227
-lastUpdated: 2023-11-22T22:29:54.091Z
+responseTime: 179
+lastUpdated: 2023-11-23T23:19:56.886Z
 startTime: 2023-09-14T01:00:28.264Z
 generator: Upptime <https://github.com/upptime/upptime>
