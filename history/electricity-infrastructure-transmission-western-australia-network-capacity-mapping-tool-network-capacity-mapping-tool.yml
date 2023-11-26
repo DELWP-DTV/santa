@@ -1,7 +1,7 @@
 url: https://services.slip.wa.gov.au/arcgis/rest/services/WP_Public_Secure_Services/NCMT_Public_Secure_Services/MapServer
 status: down
 code: 401
-responseTime: 966
-lastUpdated: 2023-11-25T23:14:50.395Z
+responseTime: 800
+lastUpdated: 2023-11-26T23:14:28.160Z
 startTime: 2023-09-14T00:55:40.154Z
 generator: Upptime <https://github.com/upptime/upptime>
