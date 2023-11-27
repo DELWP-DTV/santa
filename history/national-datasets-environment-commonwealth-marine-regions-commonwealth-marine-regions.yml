@@ -1,7 +1,7 @@
 url: http://www.environment.gov.au/mapping/services/ogc_services/Commonwealth_Marine_Regions/MapServer/WMSServer
 status: down
-code: 403
-responseTime: 192
-lastUpdated: 2023-11-26T23:17:56.329Z
+code: 0
+responseTime: 0
+lastUpdated: 2023-11-27T23:21:54.249Z
 startTime: 2023-09-14T00:59:03.569Z
 generator: Upptime <https://github.com/upptime/upptime>
