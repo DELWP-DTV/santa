@@ -1,7 +1,7 @@
 url: https://www.asris.csiro.au/arcgis/rest/services/TERN/SOC_ACLEP_AU_TRN_N/MapServer
-status: up
-code: 200
-responseTime: 247
-lastUpdated: 2023-11-27T23:26:33.792Z
+status: down
+code: 502
+responseTime: 886
+lastUpdated: 2023-11-28T07:20:30.023Z
 startTime: 2023-09-21T06:13:40.317Z
 generator: Upptime <https://github.com/upptime/upptime>
