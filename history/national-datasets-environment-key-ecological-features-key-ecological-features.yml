@@ -1,7 +1,7 @@
 url: http://www.environment.gov.au/mapping/services/ogc_services/Key_Ecological_Features/MapServer/WMSServer
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-27T23:24:27.204Z
+code: 403
+responseTime: 203
+lastUpdated: 2023-11-28T23:18:47.729Z
 startTime: 2023-09-14T00:59:10.941Z
 generator: Upptime <https://github.com/upptime/upptime>
