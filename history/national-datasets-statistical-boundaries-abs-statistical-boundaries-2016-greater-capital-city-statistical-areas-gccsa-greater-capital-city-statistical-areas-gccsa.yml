@@ -1,7 +1,7 @@
 url: https://geo.abs.gov.au/arcgis/rest/services/ASGS2016/GCCSA/MapServer
 status: up
 code: 200
-responseTime: 729
-lastUpdated: 2023-11-29T23:22:26.265Z
+responseTime: 604
+lastUpdated: 2023-11-30T23:22:01.074Z
 startTime: 2023-09-14T01:02:18.274Z
 generator: Upptime <https://github.com/upptime/upptime>
