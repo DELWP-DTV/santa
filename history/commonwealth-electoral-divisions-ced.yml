@@ -1,7 +1,7 @@
 url: https://geo.abs.gov.au/arcgis/rest/services/ASGS2021/CED/MapServer
 status: up
 code: 200
-responseTime: 1421
-lastUpdated: 2023-11-30T23:14:41.800Z
+responseTime: 65
+lastUpdated: 2023-12-01T23:14:44.917Z
 startTime: 2023-09-14T00:54:38.190Z
 generator: Upptime <https://github.com/upptime/upptime>
