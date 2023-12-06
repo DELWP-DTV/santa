@@ -1,7 +1,7 @@
 url: https://geo.abs.gov.au/arcgis/rest/services/ASGS2021/SAL/MapServer
 status: up
 code: 200
-responseTime: 4
-lastUpdated: 2023-12-05T23:25:08.938Z
+responseTime: 225
+lastUpdated: 2023-12-06T23:26:13.186Z
 startTime: 2023-09-14T01:07:15.066Z
 generator: Upptime <https://github.com/upptime/upptime>
