@@ -1,7 +1,7 @@
 url: http://services.ga.gov.au/gis/rest/services/OZTemp_Well_Data_Extract/MapServer
 status: up
 code: 200
-responseTime: 754
-lastUpdated: 2023-12-07T23:24:41.470Z
+responseTime: 840
+lastUpdated: 2023-12-08T23:24:45.282Z
 startTime: 2023-09-14T01:05:11.863Z
 generator: Upptime <https://github.com/upptime/upptime>
