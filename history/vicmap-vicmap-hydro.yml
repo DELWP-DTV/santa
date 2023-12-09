@@ -1,7 +1,7 @@
 url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Hydro/MapServer
-status: up
+status: down
 code: 200
-responseTime: 401
-lastUpdated: 2023-12-08T23:31:46.281Z
+responseTime: 418
+lastUpdated: 2023-12-09T23:29:04.274Z
 startTime: 2023-09-14T01:13:13.994Z
 generator: Upptime <https://github.com/upptime/upptime>
