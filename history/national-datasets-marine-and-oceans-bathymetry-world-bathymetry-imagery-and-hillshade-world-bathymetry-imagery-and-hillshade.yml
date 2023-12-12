@@ -1,7 +1,7 @@
 url: https://services.ga.gov.au/gis/rest/services/World_Bathymetry_Imagery/MapServer
 status: up
 code: 200
-responseTime: 238
-lastUpdated: 2023-12-11T23:20:36.738Z
+responseTime: 230
+lastUpdated: 2023-12-12T23:19:57.151Z
 startTime: 2023-09-14T01:00:02.272Z
 generator: Upptime <https://github.com/upptime/upptime>
