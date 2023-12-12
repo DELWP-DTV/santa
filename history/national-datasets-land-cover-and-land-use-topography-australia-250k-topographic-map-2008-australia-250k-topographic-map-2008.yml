@@ -1,7 +1,7 @@
 url: http://services.ga.gov.au/gis/rest/services/NATMAP_Digital_Maps_250K_2008Edition_WM/MapServer
 status: down
 code: 410
-responseTime: 212
-lastUpdated: 2023-12-11T23:20:26.939Z
+responseTime: 200
+lastUpdated: 2023-12-12T23:19:46.897Z
 startTime: 2023-09-14T00:59:51.161Z
 generator: Upptime <https://github.com/upptime/upptime>
