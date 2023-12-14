@@ -1,7 +1,7 @@
 url: https://network-opportunity-maps.s3-ap-southeast-2.amazonaws.com/capacity/test/combined-transmission-powerlines.geojson
 status: up
 code: 200
-responseTime: 2800
-lastUpdated: 2023-12-13T23:15:10.437Z
+responseTime: 2625
+lastUpdated: 2023-12-14T23:15:42.289Z
 startTime: 2023-09-14T00:55:23.721Z
 generator: Upptime <https://github.com/upptime/upptime>
