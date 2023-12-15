@@ -1,7 +1,7 @@
 url: https://services.aremi.data61.io/aemo/v6/csv/wind
 status: up
 code: 200
-responseTime: 598
-lastUpdated: 2023-12-14T23:15:26.267Z
+responseTime: 242
+lastUpdated: 2023-12-15T23:14:55.004Z
 startTime: 2023-09-14T00:55:08.004Z
 generator: Upptime <https://github.com/upptime/upptime>
