@@ -1,7 +1,7 @@
 url: https://geo.abs.gov.au/arcgis/rest/services/ASGS2011/SED/MapServer
 status: up
 code: 200
-responseTime: 3237
-lastUpdated: 2023-12-15T23:24:04.556Z
+responseTime: 27
+lastUpdated: 2023-12-16T23:20:10.841Z
 startTime: 2023-09-14T01:02:04.323Z
 generator: Upptime <https://github.com/upptime/upptime>
