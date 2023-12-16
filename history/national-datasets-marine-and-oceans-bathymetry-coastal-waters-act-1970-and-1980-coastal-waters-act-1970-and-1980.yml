@@ -1,7 +1,7 @@
 url: https://services.ga.gov.au/gis/services/CW_1970_1980/MapServer/WMSServer
 status: up
 code: 200
-responseTime: 887
-lastUpdated: 2023-12-15T23:20:27.248Z
+responseTime: 600
+lastUpdated: 2023-12-16T23:18:42.378Z
 startTime: 2023-09-14T00:59:55.286Z
 generator: Upptime <https://github.com/upptime/upptime>
