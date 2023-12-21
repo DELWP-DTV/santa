@@ -1,7 +1,7 @@
 url: https://services.ga.gov.au/gis/critical-minerals/wms
-status: down
-code: 404
-responseTime: 218
-lastUpdated: 2023-12-21T07:20:36.264Z
+status: up
+code: 200
+responseTime: 153
+lastUpdated: 2023-12-21T23:19:30.313Z
 startTime: 2023-09-14T01:00:22.096Z
 generator: Upptime <https://github.com/upptime/upptime>
