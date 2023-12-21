@@ -1,7 +1,7 @@
 url: https://services.aremi.data61.io/aemo/v6/csv/hydro
 status: up
 code: 200
-responseTime: 253
-lastUpdated: 2023-12-20T23:15:24.455Z
+responseTime: 165
+lastUpdated: 2023-12-21T23:14:47.726Z
 startTime: 2023-09-14T00:55:05.137Z
 generator: Upptime <https://github.com/upptime/upptime>
