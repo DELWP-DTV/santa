@@ -1,7 +1,7 @@
 url: http://services.ga.gov.au/gis/services/Submarine_Canyons/MapServer/WMSServer?request=GetCapabilities&service=WMS
 status: up
 code: 200
-responseTime: 1051
-lastUpdated: 2023-12-21T23:14:01.784Z
+responseTime: 1091
+lastUpdated: 2023-12-22T23:14:33.373Z
 startTime: 2023-09-14T00:54:10.119Z
 generator: Upptime <https://github.com/upptime/upptime>
