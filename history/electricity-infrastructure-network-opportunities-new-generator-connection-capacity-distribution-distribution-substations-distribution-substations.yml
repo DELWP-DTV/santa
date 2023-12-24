@@ -1,7 +1,7 @@
 url: https://uts-nom.herokuapp.com/capacity/published/combined-distribution-substations.csv
 status: up
 code: 200
-responseTime: 320
-lastUpdated: 2023-12-23T23:14:42.861Z
+responseTime: 311
+lastUpdated: 2023-12-24T23:14:22.624Z
 startTime: 2023-09-14T00:55:22.965Z
 generator: Upptime <https://github.com/upptime/upptime>
