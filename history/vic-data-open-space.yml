@@ -1,7 +1,7 @@
 url: https://services5.arcgis.com/DmRfik4clMVydXO3/arcgis/rest/services/VPA_Draft_Open_Space_Data/FeatureServer/0/query?outFields=*&where=1%3D1
 status: up
 code: 200
-responseTime: 807
-lastUpdated: 2023-12-30T23:31:02.289Z
+responseTime: 871
+lastUpdated: 2023-12-31T23:29:01.244Z
 startTime: 2023-08-16T06:34:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
