@@ -1,7 +1,7 @@
 url: http://maps.aims.gov.au/geoserver/wms
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-02T23:19:31.205Z
+status: up
+code: 200
+responseTime: 2303
+lastUpdated: 2024-01-03T07:21:41.275Z
 startTime: 2023-09-14T00:59:52.388Z
 generator: Upptime <https://github.com/upptime/upptime>
