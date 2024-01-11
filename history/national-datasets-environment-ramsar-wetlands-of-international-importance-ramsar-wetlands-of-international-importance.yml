@@ -1,7 +1,7 @@
 url: http://www.environment.gov.au/mapping/services/ogc_services/Ramsar_Wetlands/MapServer/WMSServer
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-11T07:22:31.222Z
+status: up
+code: 200
+responseTime: 171
+lastUpdated: 2024-01-11T23:21:58.744Z
 startTime: 2023-09-14T00:59:14.868Z
 generator: Upptime <https://github.com/upptime/upptime>
