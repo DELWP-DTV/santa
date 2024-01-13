@@ -1,7 +1,7 @@
 url: https://maps.nhvr.gov.au/agsm1/rest/services/vicroads/HVR_AGOL_OpenData/MapServer/16
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-12T23:41:14.045Z
+status: up
+code: 200
+responseTime: 146
+lastUpdated: 2024-01-13T23:26:00.855Z
 startTime: 2023-08-16T06:34:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
