@@ -1,7 +1,7 @@
 url: https://services5.arcgis.com/DmRfik4clMVydXO3/arcgis/rest/services/OS_WalkableCatchment_400m_SP/FeatureServer/0/query?outFields=*&where=1%3D1
 status: up
 code: 200
-responseTime: 799
-lastUpdated: 2024-01-17T23:29:07.794Z
+responseTime: 839
+lastUpdated: 2024-01-18T23:30:33.932Z
 startTime: 2023-08-16T06:34:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
