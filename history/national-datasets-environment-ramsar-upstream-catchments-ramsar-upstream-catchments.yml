@@ -1,7 +1,7 @@
 url: http://www.environment.gov.au/mapping/services/ogc_services/Ramsar_Upstream_Catchments/MapServer/WMSServer
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-21T23:21:43.624Z
+status: up
+code: 200
+responseTime: 12088
+lastUpdated: 2024-01-22T23:19:28.913Z
 startTime: 2023-09-14T00:59:13.639Z
 generator: Upptime <https://github.com/upptime/upptime>
