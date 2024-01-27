@@ -1,7 +1,7 @@
 url: http://www.environment.gov.au/mapping/services/ogc_services/Commonwealth_Heritage_List/MapServer/WMSServer
 status: down
-code: 503
-responseTime: 3222
-lastUpdated: 2024-01-26T23:20:05.433Z
+code: 0
+responseTime: 0
+lastUpdated: 2024-01-27T23:19:35.010Z
 startTime: 2023-09-14T00:59:02.315Z
 generator: Upptime <https://github.com/upptime/upptime>
