@@ -1,7 +1,7 @@
 url: http://www.environment.gov.au/mapping/services/ogc_services/Conservation_Management_Zones/MapServer/WMSServer
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-02T23:22:15.714Z
+status: up
+code: 200
+responseTime: 200
+lastUpdated: 2024-02-03T23:18:29.315Z
 startTime: 2023-09-14T00:59:06.161Z
 generator: Upptime <https://github.com/upptime/upptime>
