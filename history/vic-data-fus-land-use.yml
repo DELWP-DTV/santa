@@ -1,7 +1,7 @@
 url: https://services5.arcgis.com/DmRfik4clMVydXO3/arcgis/rest/services/FUS_LandUse_ArcGISUpload/FeatureServer/0/query?outFields=*&where=1%3D1
 status: up
 code: 200
-responseTime: 882
-lastUpdated: 2024-02-17T23:28:01.900Z
+responseTime: 163
+lastUpdated: 2024-02-18T23:26:44.268Z
 startTime: 2023-08-16T06:34:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
