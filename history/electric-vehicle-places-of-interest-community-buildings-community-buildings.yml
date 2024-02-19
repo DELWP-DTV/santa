@@ -1,7 +1,7 @@
 url: https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Features_of_Interest_Category/MapServer
-status: up
+status: down
 code: 200
-responseTime: 352
-lastUpdated: 2024-02-18T23:13:40.417Z
+responseTime: 953
+lastUpdated: 2024-02-19T23:13:51.253Z
 startTime: 2023-09-14T00:54:55.070Z
 generator: Upptime <https://github.com/upptime/upptime>
