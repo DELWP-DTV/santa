@@ -1,7 +1,7 @@
 url: https://enterprise.mapshare.vic.gov.au/server/rest/services/DTV/ACCC_Mobile_Infrastructure_Report/MapServer
-status: down
-code: 503
-responseTime: 686
-lastUpdated: 2024-03-09T07:14:18.986Z
+status: up
+code: 200
+responseTime: 997
+lastUpdated: 2024-03-09T23:14:15.503Z
 startTime: 2023-09-14T00:54:41.438Z
 generator: Upptime <https://github.com/upptime/upptime>
