@@ -1,7 +1,7 @@
 url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Crown_Land_Tenure/MapServer
-status: down
-code: 503
-responseTime: 201
-lastUpdated: 2024-03-11T23:34:10.578Z
+status: up
+code: 200
+responseTime: 244
+lastUpdated: 2024-03-12T07:26:19.067Z
 startTime: 2023-09-14T01:13:11.663Z
 generator: Upptime <https://github.com/upptime/upptime>
