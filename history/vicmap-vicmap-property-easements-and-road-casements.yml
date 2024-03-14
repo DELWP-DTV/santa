@@ -1,7 +1,7 @@
 url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Property_Easements_and_Road_Casements/MapServer
-status: up
+status: down
 code: 200
-responseTime: 273
-lastUpdated: 2024-03-13T23:28:25.684Z
+responseTime: 4778
+lastUpdated: 2024-03-14T07:35:32.457Z
 startTime: 2023-09-14T01:13:19.636Z
 generator: Upptime <https://github.com/upptime/upptime>
