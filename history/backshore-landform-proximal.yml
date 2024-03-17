@@ -1,7 +1,7 @@
 url: http://services.ga.gov.au/gis/services/Geomorphology_Smartline/MapServer/WMSServer?request=GetCapabilities&service=WMS
 status: up
 code: 200
-responseTime: 6462
-lastUpdated: 2024-03-16T23:14:53.041Z
+responseTime: 6366
+lastUpdated: 2024-03-17T23:14:49.879Z
 startTime: 2023-09-14T00:54:10.911Z
 generator: Upptime <https://github.com/upptime/upptime>
