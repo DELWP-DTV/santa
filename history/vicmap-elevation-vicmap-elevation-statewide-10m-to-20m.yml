@@ -1,7 +1,7 @@
 url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Elevation_STATEWIDE_10_to_20_metre/MapServer
 status: up
 code: 200
-responseTime: 652
-lastUpdated: 2024-03-23T23:28:54.623Z
+responseTime: 541
+lastUpdated: 2024-03-24T23:31:04.619Z
 startTime: 2023-09-14T01:13:06.939Z
 generator: Upptime <https://github.com/upptime/upptime>
