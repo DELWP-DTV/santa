@@ -1,7 +1,7 @@
 url: https://gisservices.information.qld.gov.au/arcgis/services/GeoscientificInformation/GeologyDetailed/MapServer/WMSServer?service=WMS&version=1.3.0&request=GetCapabilities
-status: down
-code: 502
-responseTime: 2006
-lastUpdated: 2024-03-27T07:15:57.255Z
+status: up
+code: 200
+responseTime: 3351
+lastUpdated: 2024-03-27T23:14:43.943Z
 startTime: 2023-09-14T00:55:48.169Z
 generator: Upptime <https://github.com/upptime/upptime>
