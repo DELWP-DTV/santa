@@ -1,7 +1,7 @@
 url: https://opendata.maps.vic.gov.au/geoserver/wms?service=wms&request=getmap&format=image%2Fpng8&transparent=true&layers=open-data-platform:nv1750_evcbcs&width=512&height=512&crs=epsg%3A3857&bbox=16114148.554967716%2C-4456584.4971389165%2C16119040.524777967%2C-4451692.527328665
 status: up
 code: 200
-responseTime: 219
-lastUpdated: 2024-03-30T23:26:04.103Z
+responseTime: 321
+lastUpdated: 2024-03-31T23:25:34.028Z
 startTime: 2023-08-16T06:33:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
