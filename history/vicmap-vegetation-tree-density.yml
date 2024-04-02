@@ -1,7 +1,7 @@
-url: https://tiles.arcgis.com/tiles/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Vegetation_Tree_Density_Tile/MapServer?view=wmtsview&cacheKey=9326ef767e6c9d9c
+url: https://tiles.arcgis.com/tiles/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Vegetation_Tree_Density/VectorTileServer/tile/{z}/{y}/{x}.pbf
 status: up
 code: 200
-responseTime: 59
-lastUpdated: 2024-04-02T23:30:37.087Z
+responseTime: 17
+lastUpdated: 2024-04-02T23:30:38.584Z
 startTime: 2023-07-07T01:38:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
