@@ -1,7 +1,7 @@
 url: http://services.ga.gov.au/gis/services/Hydrogeology_of_Australia/MapServer/WmsServer?request=GetCapabilities&service=WMS
 status: up
 code: 200
-responseTime: 1215
-lastUpdated: 2024-04-09T23:23:01.111Z
+responseTime: 1282
+lastUpdated: 2024-04-10T23:22:01.369Z
 startTime: 2023-09-14T01:03:16.592Z
 generator: Upptime <https://github.com/upptime/upptime>
