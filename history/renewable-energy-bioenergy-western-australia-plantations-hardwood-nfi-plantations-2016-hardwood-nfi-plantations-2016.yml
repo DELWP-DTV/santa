@@ -1,7 +1,7 @@
 url: https://www.agric.wa.gov.au/geoserver/NFI/wms
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-12T07:28:08.176Z
+status: up
+code: 200
+responseTime: 6276
+lastUpdated: 2024-04-12T23:20:10.371Z
 startTime: 2023-09-14T01:05:05.963Z
 generator: Upptime <https://github.com/upptime/upptime>
