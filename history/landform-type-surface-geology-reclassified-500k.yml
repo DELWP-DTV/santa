@@ -1,7 +1,7 @@
 url: http://gaservices.ga.gov.au/site_1/services/Geomorphology_Landform_Type_WM/MapServer/WMSServer?request=GetCapabilities&service=WMS
 status: up
 code: 200
-responseTime: 5469
-lastUpdated: 2024-04-11T23:17:45.327Z
+responseTime: 5236
+lastUpdated: 2024-04-12T23:13:22.441Z
 startTime: 2023-09-14T00:56:22.617Z
 generator: Upptime <https://github.com/upptime/upptime>
