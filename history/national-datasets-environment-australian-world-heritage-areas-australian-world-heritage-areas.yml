@@ -1,7 +1,7 @@
 url: http://www.environment.gov.au/mapping/services/ogc_services/World_Heritage_Areas/MapServer/WMSServer
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-18T23:19:54.366Z
+status: up
+code: 200
+responseTime: 639
+lastUpdated: 2024-04-19T07:20:04.137Z
 startTime: 2023-09-14T00:59:00.577Z
 generator: Upptime <https://github.com/upptime/upptime>
