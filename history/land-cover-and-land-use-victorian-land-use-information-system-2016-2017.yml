@@ -1,7 +1,7 @@
 url: https://enterprise.mapshare.vic.gov.au/server/rest/services/DTV/DJPR_Unrestricted/MapServer
-status: up
-code: 200
-responseTime: 911
-lastUpdated: 2024-05-16T23:17:37.890Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-05-17T07:20:00.876Z
 startTime: 2023-09-14T00:56:21.181Z
 generator: Upptime <https://github.com/upptime/upptime>
