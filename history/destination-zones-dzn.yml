@@ -1,7 +1,7 @@
 url: https://geo.abs.gov.au/arcgis/rest/services/ASGS2021/DZN/MapServer
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-18T23:19:36.991Z
+status: up
+code: 200
+responseTime: 2074
+lastUpdated: 2024-05-19T07:18:04.886Z
 startTime: 2023-09-14T00:54:44.991Z
 generator: Upptime <https://github.com/upptime/upptime>
