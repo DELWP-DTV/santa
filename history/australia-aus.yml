@@ -1,7 +1,7 @@
 url: https://geo.abs.gov.au/arcgis/rest/services/ASGS2021/AUS/MapServer
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-18T23:15:15.445Z
+status: up
+code: 200
+responseTime: 1332
+lastUpdated: 2024-05-19T23:15:29.616Z
 startTime: 2023-09-14T00:54:04.490Z
 generator: Upptime <https://github.com/upptime/upptime>
