@@ -1,7 +1,7 @@
 url: https://geo.abs.gov.au/arcgis/rest/services/ASGC2001/MSR/MapServer
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-18T23:41:06.528Z
+status: up
+code: 200
+responseTime: 2114
+lastUpdated: 2024-05-19T07:24:58.949Z
 startTime: 2023-09-14T01:00:41.402Z
 generator: Upptime <https://github.com/upptime/upptime>
