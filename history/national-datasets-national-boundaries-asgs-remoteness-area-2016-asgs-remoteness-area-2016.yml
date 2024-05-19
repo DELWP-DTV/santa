@@ -1,7 +1,7 @@
 url: https://geo.abs.gov.au/arcgis/rest/services/ASGS2016/RA/MapServer
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-18T23:34:27.386Z
+status: up
+code: 200
+responseTime: 2113
+lastUpdated: 2024-05-19T07:24:21.205Z
 startTime: 2023-09-14T01:00:06.682Z
 generator: Upptime <https://github.com/upptime/upptime>
