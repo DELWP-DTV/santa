@@ -1,7 +1,7 @@
 url: http://services.ga.gov.au/gis/services/DEM_SRTM_1Second/MapServer/WMSServer
 status: down
 code: 400
-responseTime: 17687
-lastUpdated: 2024-06-01T23:21:02.380Z
+responseTime: 16935
+lastUpdated: 2024-06-02T23:18:44.909Z
 startTime: 2023-09-14T00:58:20.262Z
 generator: Upptime <https://github.com/upptime/upptime>
