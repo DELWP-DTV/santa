@@ -1,7 +1,7 @@
 url: https://opendata.maps.vic.gov.au/geoserver/wms?service=wms&request=getmap&format=image%2Fpng8&transparent=true&layers=open-data-platform:coal250_polygon&width=512&height=512&crs=epsg%3A3857&bbox=16114148.554967716%2C-4456584.4971389165%2C16119040.524777967%2C-4451692.527328665
 status: up
 code: 200
-responseTime: 184
-lastUpdated: 2024-06-02T23:26:02.832Z
+responseTime: 298
+lastUpdated: 2024-06-03T23:27:05.782Z
 startTime: 2023-08-16T06:30:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
