@@ -1,7 +1,7 @@
 url: https://near.csiro.au/public/aremi/dataset/energise_household_bills.csv
-status: up
-code: 200
-responseTime: 218
-lastUpdated: 2024-06-11T23:26:28.381Z
+status: down
+code: 503
+responseTime: 213
+lastUpdated: 2024-06-12T23:28:08.154Z
 startTime: 2023-09-14T01:06:49.824Z
 generator: Upptime <https://github.com/upptime/upptime>
