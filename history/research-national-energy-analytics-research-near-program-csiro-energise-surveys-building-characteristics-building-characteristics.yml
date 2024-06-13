@@ -1,7 +1,7 @@
 url: https://near.csiro.au/public/aremi/dataset/energise_building_characteristics.csv
-status: down
-code: 503
-responseTime: 1260
-lastUpdated: 2024-06-12T23:28:05.426Z
+status: up
+code: 200
+responseTime: 767
+lastUpdated: 2024-06-13T07:25:24.014Z
 startTime: 2023-09-14T01:06:47.164Z
 generator: Upptime <https://github.com/upptime/upptime>
