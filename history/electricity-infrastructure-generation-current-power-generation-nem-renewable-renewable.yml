@@ -1,7 +1,7 @@
 url: https://services.aremi.data61.io/aemo/v6/csv/renewables
 status: up
 code: 200
-responseTime: 256
-lastUpdated: 2024-06-14T23:15:47.086Z
+responseTime: 225
+lastUpdated: 2024-06-15T23:16:11.236Z
 startTime: 2023-09-14T00:55:06.136Z
 generator: Upptime <https://github.com/upptime/upptime>
