@@ -1,7 +1,7 @@
 url: http://www.environment.gov.au/mapping/services/ogc_services/Important_Wetlands/MapServer/WMSServer
-status: down
-code: 400
-responseTime: 162
-lastUpdated: 2024-06-19T23:19:27.888Z
+status: up
+code: 200
+responseTime: 370
+lastUpdated: 2024-06-20T23:21:22.744Z
 startTime: 2023-09-14T00:59:07.385Z
 generator: Upptime <https://github.com/upptime/upptime>
