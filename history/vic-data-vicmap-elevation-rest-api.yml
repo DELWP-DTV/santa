@@ -1,7 +1,7 @@
-url: https://services6.arcgis.com/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Elevation_METRO_1_to_5_metre/FeatureServer
+url: https://services6.arcgis.com/GB33F62SbDxJjwEL/arcgis/rest/services/Vicmap_Elevation_STATEWIDE_10_to_20_metre/FeatureServer
 status: up
 code: 200
-responseTime: 91
-lastUpdated: 2024-06-23T23:30:07.678Z
+responseTime: 74
+lastUpdated: 2024-06-23T23:30:08.108Z
 startTime: 2023-08-16T06:34:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
