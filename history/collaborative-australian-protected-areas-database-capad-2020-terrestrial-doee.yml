@@ -1,7 +1,7 @@
 url: http://www.environment.gov.au/mapping/services/ogc_services/capad/MapServer/WMSServer
 status: down
-code: 200
-responseTime: 4977
-lastUpdated: 2024-06-24T07:18:56.515Z
+code: 502
+responseTime: 769
+lastUpdated: 2024-06-24T23:18:50.218Z
 startTime: 2023-09-14T00:54:33.873Z
 generator: Upptime <https://github.com/upptime/upptime>
