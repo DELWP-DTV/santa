@@ -1,7 +1,7 @@
 url: http://services.ga.gov.au/gis/afgn/wms?service=WMS&version=1.3.0&request=GetCapabilities
 status: up
 code: 200
-responseTime: 428
-lastUpdated: 2024-07-11T23:17:23.573Z
+responseTime: 360
+lastUpdated: 2024-07-12T23:14:50.844Z
 startTime: 2023-09-14T00:54:07.216Z
 generator: Upptime <https://github.com/upptime/upptime>
