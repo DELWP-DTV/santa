@@ -1,7 +1,7 @@
 url: https://data.melbourne.vic.gov.au/api/records/1.0/search/?rows=2000&order=DESC&dataset=pedestrian-counting-system-past-hour-counts-per-minute&timezone=Australia%2FSydney&lang=en
 status: up
 code: 200
-responseTime: 3593
-lastUpdated: 2024-07-13T23:16:43.053Z
+responseTime: 3558
+lastUpdated: 2024-07-14T23:17:22.580Z
 startTime: 2023-09-14T00:56:30.706Z
 generator: Upptime <https://github.com/upptime/upptime>
