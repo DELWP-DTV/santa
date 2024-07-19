@@ -1,7 +1,7 @@
 url: https://spatial.industry.nsw.gov.au/arcgis/rest/services/Bioenergy_Assessment/Cropping_RiceResidues/MapServer
-status: down
-code: 504
-responseTime: 10137
-lastUpdated: 2024-07-19T07:37:11.040Z
+status: up
+code: 200
+responseTime: 5002
+lastUpdated: 2024-07-19T23:23:36.682Z
 startTime: 2023-09-14T01:03:37.458Z
 generator: Upptime <https://github.com/upptime/upptime>
