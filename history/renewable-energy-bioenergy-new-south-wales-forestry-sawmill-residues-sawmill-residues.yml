@@ -1,7 +1,7 @@
 url: https://spatial.industry.nsw.gov.au/arcgis/rest/services/Bioenergy_Assessment/Forestry_SawmillResidues/MapServer
-status: down
-code: 504
-responseTime: 10145
-lastUpdated: 2024-07-19T07:39:15.417Z
+status: up
+code: 200
+responseTime: 5082
+lastUpdated: 2024-07-19T23:23:59.958Z
 startTime: 2023-09-14T01:03:40.209Z
 generator: Upptime <https://github.com/upptime/upptime>
