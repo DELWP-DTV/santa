@@ -519,7 +519,7 @@ sites:
   method: POST
   __dangerous__body_down: Could not access any server machines.
 - name: DTV Terrain Version 1 - August 2022
-  url: null
+  url: https://data.gov.au
   method: POST
   __dangerous__body_down: Could not access any server machines.
 - name: DTV Terrain Version 2 - December 2022
@@ -1295,7 +1295,7 @@ sites:
   method: POST
   __dangerous__body_down: Could not access any server machines.
 - name: Primary Health Networks
-  url: null
+  url: https://data.gov.au
   method: POST
   __dangerous__body_down: Could not access any server machines.
 - name: Conveyors
