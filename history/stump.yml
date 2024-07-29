@@ -1,7 +1,7 @@
-url: https://calculators.sustainability.vic.gov.au/biomass2018/Plantation2016-20_Softwood_Stump.csv
+url: https://calculators.sustainability.vic.gov.au/biomass2018/Plantation2016-20_hardwood_Stump.csv
 status: up
 code: 200
-responseTime: 744
-lastUpdated: 2024-07-27T01:45:02.439Z
+responseTime: 673
+lastUpdated: 2024-07-29T01:48:05.019Z
 startTime: 2024-07-23T07:25:05.722Z
 generator: Upptime <https://github.com/upptime/upptime>
