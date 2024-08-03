@@ -1,7 +1,7 @@
 url: https://gis.environment.gov.au/gispubmap/services/ogc_services/EPBC_Referrals/MapServer/WMSServer?request=GetCapabilities&service=WMS
 status: up
 code: 200
-responseTime: 244
-lastUpdated: 2024-07-31T23:22:24.823Z
+responseTime: 192
+lastUpdated: 2024-08-03T23:22:19.196Z
 startTime: 2024-07-23T04:49:18.379Z
 generator: Upptime <https://github.com/upptime/upptime>
