@@ -1,7 +1,7 @@
 url: https://gis.environment.gov.au/gispubmap/services/ogc_services/Conservation_Management_Zones/MapServer/WMSServer?request=GetCapabilities&service=WMS
 status: up
 code: 200
-responseTime: 252
-lastUpdated: 2024-07-31T23:22:24.259Z
+responseTime: 268
+lastUpdated: 2024-08-03T23:22:18.683Z
 startTime: 2024-07-23T04:49:17.857Z
 generator: Upptime <https://github.com/upptime/upptime>
