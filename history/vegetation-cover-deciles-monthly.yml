@@ -1,7 +1,7 @@
 url: http://gsky.nci.org.au/ows/geoglam
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-01T01:47:42.512Z
+code: 400
+responseTime: 337
+lastUpdated: 2024-08-04T01:32:26.225Z
 startTime: 2024-07-23T07:19:54.233Z
 generator: Upptime <https://github.com/upptime/upptime>
