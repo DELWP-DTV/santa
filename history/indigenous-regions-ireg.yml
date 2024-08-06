@@ -1,7 +1,7 @@
-url: https://geo.abs.gov.au/arcgis/rest/services/ASGS2016/IREG/MapServer
+url: https://geo.abs.gov.au/arcgis/rest/services/ASGS2021/IREG/MapServer
 status: up
 code: 200
-responseTime: 781
-lastUpdated: 2024-08-06T01:39:10.335Z
+responseTime: 845
+lastUpdated: 2024-08-06T01:39:39.094Z
 startTime: 2023-09-14T00:56:20.465Z
 generator: Upptime <https://github.com/upptime/upptime>
