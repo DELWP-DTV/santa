@@ -1,7 +1,7 @@
-url: https://geo.abs.gov.au/arcgis/rest/services/ASGC2001/SOSR/MapServer
+url: https://geo.abs.gov.au/arcgis/rest/services/ASGC2006/SOSR/MapServer
 status: up
 code: 200
-responseTime: 1144
-lastUpdated: 2024-08-06T01:38:01.998Z
+responseTime: 921
+lastUpdated: 2024-08-06T01:38:26.199Z
 startTime: 2024-07-23T07:13:01.757Z
 generator: Upptime <https://github.com/upptime/upptime>
