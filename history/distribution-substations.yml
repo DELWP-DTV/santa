@@ -1,7 +1,7 @@
-url: https://uts-nom.herokuapp.com/capacity/published/combined-distribution-substations.csv
+url: https://dt-geoserver.terria.io/geoserver/ows
 status: up
 code: 200
-responseTime: 302
-lastUpdated: 2024-08-04T01:36:20.409Z
+responseTime: 193
+lastUpdated: 2024-08-06T01:40:04.165Z
 startTime: 2024-07-23T07:15:06.694Z
 generator: Upptime <https://github.com/upptime/upptime>
