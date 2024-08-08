@@ -1,7 +1,7 @@
 url: https://data.melbourne.vic.gov.au/api/explore/v2.1/catalog/datasets/employment-by-block-by-clue-industry/exports/csv?lang=en&timezone=Australia%2FSydney&use_labels=true&delimiter=%2C
 status: up
 code: 200
-responseTime: 1745
-lastUpdated: 2024-08-05T23:18:52.199Z
+responseTime: 1645
+lastUpdated: 2024-08-08T23:19:21.097Z
 startTime: 2024-07-23T04:42:56.276Z
 generator: Upptime <https://github.com/upptime/upptime>
