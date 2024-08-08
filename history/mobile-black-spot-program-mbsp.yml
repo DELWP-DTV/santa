@@ -1,7 +1,7 @@
 url: https://spatial.infrastructure.gov.au/server/services/Mobile_Black_Spot_Program_Funded_Base_Stations/MapServer/WMSServer?request=GetCapabilities&service=WMS
 status: up
 code: 200
-responseTime: 2357
-lastUpdated: 2024-08-05T23:22:19.222Z
+responseTime: 2199
+lastUpdated: 2024-08-08T23:22:47.062Z
 startTime: 2024-07-23T04:47:25.671Z
 generator: Upptime <https://github.com/upptime/upptime>
