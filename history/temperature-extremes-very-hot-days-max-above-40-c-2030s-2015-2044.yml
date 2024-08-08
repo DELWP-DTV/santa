@@ -1,7 +1,7 @@
-url: https://vicfutureclimatetool.indraweb.io/indravic_py_server/api/v1/temperatureindices/query?index=heat&emission=rcp45&variable=very_hot_days&frequency=Annual&gcm=access&year=2030&filetype=geojson
+url: https://vicfutureclimatetool.indraweb.io/indravic_py_server/api/v1/temperatureindices/query?index=heat&emission=rcp45&variable=very_hot_days&frequency=Annual&gcm=noresm&year=2030&filetype=geojson
 status: up
 code: 200
-responseTime: 1178
-lastUpdated: 2024-08-08T23:27:24.014Z
+responseTime: 1176
+lastUpdated: 2024-08-08T23:30:34.210Z
 startTime: 2024-07-23T04:52:19.956Z
 generator: Upptime <https://github.com/upptime/upptime>
