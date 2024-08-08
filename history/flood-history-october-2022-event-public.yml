@@ -1,7 +1,7 @@
 url: https://opendata.maps.vic.gov.au/geoserver/wms?service=wms&request=getmap&format=image%2Fpng8&transparent=true&layers=open-data-platform:vic_flood_history_public&width=512&height=512&crs=epsg%3A3857&bbox=16114148.554967716%2C-4456584.4971389165%2C16119040.524777967%2C-4451692.527328665
 status: up
 code: 200
-responseTime: 795
-lastUpdated: 2024-08-05T23:17:54.611Z
+responseTime: 835
+lastUpdated: 2024-08-08T23:18:26.716Z
 startTime: 2024-07-23T04:41:57.983Z
 generator: Upptime <https://github.com/upptime/upptime>
