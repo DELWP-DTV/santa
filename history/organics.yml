@@ -1,7 +1,7 @@
-url: https://calculators.sustainability.vic.gov.au/biomass2018/LGA_organics.csv
+url: https://calculators.sustainability.vic.gov.au/biomass2018/MSW_Organics.csv
 status: up
 code: 200
-responseTime: 861
-lastUpdated: 2024-08-09T01:44:00.066Z
+responseTime: 856
+lastUpdated: 2024-08-12T01:47:58.555Z
 startTime: 2024-07-23T07:22:54.999Z
 generator: Upptime <https://github.com/upptime/upptime>
