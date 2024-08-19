@@ -1,7 +1,7 @@
 url: https://discover.data.vic.gov.au/
-status: down
-code: 500
-responseTime: 1758
-lastUpdated: 2024-08-19T07:18:47.357Z
+status: up
+code: 200
+responseTime: 6181
+lastUpdated: 2024-08-19T23:16:57.455Z
 startTime: 2024-07-23T04:39:34.775Z
 generator: Upptime <https://github.com/upptime/upptime>
