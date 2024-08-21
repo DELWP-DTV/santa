@@ -1,7 +1,7 @@
 url: http://services.ga.gov.au/gis/services/NM_Reserves/MapServer/WMSServer?request=GetCapabilities&service=WMS
 status: up
 code: 200
-responseTime: 5061
-lastUpdated: 2024-08-19T23:45:30.575Z
+responseTime: 5003
+lastUpdated: 2024-08-21T23:44:28.229Z
 startTime: 2024-07-23T05:09:58.429Z
 generator: Upptime <https://github.com/upptime/upptime>
