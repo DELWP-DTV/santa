@@ -1,7 +1,7 @@
-url: https://vicfutureclimatetool.indraweb.io/indravic_py_server/api/v1/heatwaves/query?index=ctn90&emission=rcp45&variable=hwa&frequency=Annual&gcm=hadgem&year=2070&filetype=geojson
+url: https://vicfutureclimatetool.indraweb.io/indravic_py_server/api/v1/heatwaves/query?index=ctn90&emission=rcp45&variable=hwa&frequency=Annual&gcm=access&year=2070&filetype=geojson
 status: up
 code: 200
-responseTime: 1013
-lastUpdated: 2024-08-19T23:35:03.006Z
+responseTime: 1173
+lastUpdated: 2024-08-21T23:27:53.185Z
 startTime: 2024-07-23T04:54:03.810Z
 generator: Upptime <https://github.com/upptime/upptime>
