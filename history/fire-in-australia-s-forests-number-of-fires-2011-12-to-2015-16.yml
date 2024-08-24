@@ -1,7 +1,7 @@
-url: https://gis.environment.gov.au/gispubmap/rest/services/abares/AustStateOfForests2018/MapServer/1
+url: https://www.asris.csiro.au/arcgis/rest/services/abares/fire_in_australias_forests_2011_2016/MapServer
 status: up
 code: 200
-responseTime: 860
-lastUpdated: 2024-08-24T23:20:43.572Z
+responseTime: 837
+lastUpdated: 2024-08-24T23:38:12.889Z
 startTime: 2024-07-23T04:47:18.023Z
 generator: Upptime <https://github.com/upptime/upptime>
