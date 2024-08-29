@@ -1,7 +1,7 @@
 url: https://gisservices.information.qld.gov.au/arcgis/rest/services/PlanningCadastre/LandParcelPropertyFramework/MapServer
-status: up
-code: 200
-responseTime: 849
-lastUpdated: 2024-08-28T01:20:13.348Z
+status: down
+code: 502
+responseTime: 1051
+lastUpdated: 2024-08-29T08:20:04.919Z
 startTime: 2024-07-23T07:20:41.740Z
 generator: Upptime <https://github.com/upptime/upptime>
