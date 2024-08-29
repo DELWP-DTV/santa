@@ -1,7 +1,7 @@
 url: https://oa-gis.csiro.au/geoserver/ows
-status: up
-code: 200
-responseTime: 1270
-lastUpdated: 2024-08-28T01:20:56.846Z
+status: down
+code: 503
+responseTime: 1267
+lastUpdated: 2024-08-29T08:20:37.606Z
 startTime: 2024-07-23T07:21:35.546Z
 generator: Upptime <https://github.com/upptime/upptime>
