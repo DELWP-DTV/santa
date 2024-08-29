@@ -1,7 +1,7 @@
-url: https://data.gov.au
+url: https://gis.environment.gov.au/gispubmap/rest/services/abares/CLUM_50m/MapServer
 status: up
 code: 200
-responseTime: 407
-lastUpdated: 2024-08-29T08:20:23.340Z
+responseTime: 1277
+lastUpdated: 2024-08-29T23:09:57.845Z
 startTime: 2024-07-23T04:47:15.322Z
 generator: Upptime <https://github.com/upptime/upptime>
