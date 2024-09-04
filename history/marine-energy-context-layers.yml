@@ -1,7 +1,7 @@
 url: https://oa-gis.csiro.au/geonetwork/srv/eng/csw
-status: down
-code: 503
-responseTime: 816
-lastUpdated: 2024-08-30T01:31:10.621Z
+status: up
+code: 200
+responseTime: 169
+lastUpdated: 2024-09-04T08:11:26.600Z
 startTime: 2024-07-23T07:21:37.652Z
 generator: Upptime <https://github.com/upptime/upptime>
