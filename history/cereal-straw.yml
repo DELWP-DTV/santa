@@ -1,7 +1,7 @@
-url: https://lsa.geohub.sa.gov.au/server/rest/services/AREMI/Cereal_Straw/MapServer
+url: https://catalogue.data.wa.gov.au
 status: up
 code: 200
-responseTime: 662
-lastUpdated: 2024-09-07T01:31:28.363Z
+responseTime: 416
+lastUpdated: 2024-09-11T01:38:40.434Z
 startTime: 2024-07-23T07:21:27.237Z
 generator: Upptime <https://github.com/upptime/upptime>
