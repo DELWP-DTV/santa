@@ -1,7 +1,7 @@
 url: https://ows.services.dea.ga.gov.au/
-status: down
-code: 403
-responseTime: 1550
-lastUpdated: 2024-09-14T23:28:57.132Z
+status: up
+code: 200
+responseTime: 951
+lastUpdated: 2024-09-16T07:25:26.954Z
 startTime: 2024-07-23T05:03:33.469Z
 generator: Upptime <https://github.com/upptime/upptime>
