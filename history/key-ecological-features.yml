@@ -1,7 +1,7 @@
 url: https://gis.environment.gov.au/gispubmap/services/ogc_services/Key_Ecological_Features/MapServer/WMSServer?request=GetCapabilities&service=WMS
 status: up
 code: 200
-responseTime: 354
-lastUpdated: 2024-09-17T23:12:39.231Z
+responseTime: 434
+lastUpdated: 2024-09-20T23:13:52.094Z
 startTime: 2024-07-23T04:49:18.914Z
 generator: Upptime <https://github.com/upptime/upptime>
