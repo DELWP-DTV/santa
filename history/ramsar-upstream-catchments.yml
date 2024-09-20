@@ -1,7 +1,7 @@
 url: https://gis.environment.gov.au/gispubmap/services/ogc_services/Ramsar_Upstream_Catchments/MapServer/WMSServer?request=GetCapabilities&service=WMS
 status: up
 code: 200
-responseTime: 219
-lastUpdated: 2024-09-17T23:12:40.282Z
+responseTime: 238
+lastUpdated: 2024-09-20T23:13:53.234Z
 startTime: 2024-07-23T04:49:20.170Z
 generator: Upptime <https://github.com/upptime/upptime>
