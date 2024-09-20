@@ -1,7 +1,7 @@
 url: https://warehouse.ausseabed.gov.au/geoserver/ows?REQUEST=GetCapabilities&SERVICE=WMS&VERSION=1.3.0
 status: up
 code: 200
-responseTime: 1320
-lastUpdated: 2024-09-17T23:35:11.919Z
+responseTime: 1823
+lastUpdated: 2024-09-20T23:36:03.097Z
 startTime: 2024-07-23T05:10:07.506Z
 generator: Upptime <https://github.com/upptime/upptime>
