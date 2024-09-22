@@ -1,7 +1,7 @@
 url: http://services.ga.gov.au/gis/services/Australian_Geological_Provinces/MapServer/WMSServer?request=GetCapabilities&service=WMS
 status: up
 code: 200
-responseTime: 6878
-lastUpdated: 2024-09-20T23:34:09.032Z
+responseTime: 6865
+lastUpdated: 2024-09-22T23:36:17.276Z
 startTime: 2024-07-23T05:08:08.042Z
 generator: Upptime <https://github.com/upptime/upptime>
