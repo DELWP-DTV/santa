@@ -1,7 +1,7 @@
 url: https://network-opportunity-maps.s3.ap-southeast-2.amazonaws.com/constraints/production/processed_layers/available_capacity_timeseries.csv
 status: up
 code: 200
-responseTime: 1604
-lastUpdated: 2024-10-17T02:20:52.098Z
+responseTime: 1253
+lastUpdated: 2024-10-19T02:02:07.735Z
 startTime: 2024-07-23T07:21:02.952Z
 generator: Upptime <https://github.com/upptime/upptime>
