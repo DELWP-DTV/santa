@@ -1,7 +1,7 @@
 url: https://vicfutureclimatetool.indraweb.io/indravic_py_server/api/v1/historicalclimate/query?variable=rain&frequency=Annual&filetype=geojson
 status: up
 code: 200
-responseTime: 1055
-lastUpdated: 2024-10-18T23:09:01.014Z
+responseTime: 1307
+lastUpdated: 2024-10-19T23:09:13.160Z
 startTime: 2024-07-23T04:45:54.092Z
 generator: Upptime <https://github.com/upptime/upptime>
