@@ -1,7 +1,7 @@
 url: https://spatial.infrastructure.gov.au/server/services/Mobile_Network_Hardening_Program_MNHP/MapServer/WMSServer?request=GetCapabilities&service=WMS&version=1.3.0
 status: up
 code: 200
-responseTime: 297
-lastUpdated: 2024-10-20T23:12:26.839Z
+responseTime: 1740
+lastUpdated: 2024-10-21T23:11:50.391Z
 startTime: 2024-07-23T04:47:29.608Z
 generator: Upptime <https://github.com/upptime/upptime>
