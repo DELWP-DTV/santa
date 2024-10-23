@@ -1,7 +1,7 @@
 url: https://www.asris.csiro.au/arcgis/rest/services/TERN/SND_ACLEP_AU_NAT_C/MapServer
-status: down
-code: 500
-responseTime: 197
-lastUpdated: 2024-10-22T02:12:58.939Z
+status: up
+code: 200
+responseTime: 225
+lastUpdated: 2024-10-23T02:14:02.880Z
 startTime: 2024-07-23T07:19:04.347Z
 generator: Upptime <https://github.com/upptime/upptime>
