@@ -1,7 +1,7 @@
 url: https://data.melbourne.vic.gov.au/api/explore/v2.1/catalog/datasets/floor-space-by-block-by-clue-industry/exports/csv?lang=en&timezone=Australia%2FSydney&use_labels=true&delimiter=%2C
 status: up
 code: 200
-responseTime: 5181
-lastUpdated: 2024-10-22T23:07:53.647Z
+responseTime: 2666
+lastUpdated: 2024-10-23T23:07:21.091Z
 startTime: 2024-07-23T04:43:07.459Z
 generator: Upptime <https://github.com/upptime/upptime>
