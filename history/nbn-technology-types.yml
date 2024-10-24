@@ -1,7 +1,7 @@
 url: https://spatial.infrastructure.gov.au/server/services/National_Broadband_Network_%E2%80%93_Connections_by_technology_type_%E2%80%93_July_2020/MapServer/WMSServer?request=GetCapabilities&service=WMS
 status: up
 code: 200
-responseTime: 776
-lastUpdated: 2024-10-23T23:12:10.051Z
+responseTime: 276
+lastUpdated: 2024-10-24T23:12:56.704Z
 startTime: 2024-07-23T04:47:31.728Z
 generator: Upptime <https://github.com/upptime/upptime>
