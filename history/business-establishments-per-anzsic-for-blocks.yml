@@ -1,7 +1,7 @@
 url: https://data.melbourne.vic.gov.au/api/explore/v2.1/catalog/datasets/business-establishments-per-block-by-anzsic/exports/csv?lang=en&timezone=Australia%2FSydney&use_labels=true&delimiter=%2C
 status: up
 code: 200
-responseTime: 2504
-lastUpdated: 2024-10-23T23:07:09.335Z
+responseTime: 2938
+lastUpdated: 2024-10-24T23:07:43.483Z
 startTime: 2024-07-23T04:42:52.979Z
 generator: Upptime <https://github.com/upptime/upptime>
