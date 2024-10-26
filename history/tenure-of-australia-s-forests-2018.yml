@@ -1,7 +1,7 @@
 url: https://www.asris.csiro.au/arcgis/rest/services/abares/tenure_of_australias_forests_2018/MapServer
-status: up
-code: 200
-responseTime: 250
-lastUpdated: 2024-10-25T23:35:33.898Z
+status: down
+code: 502
+responseTime: 10178
+lastUpdated: 2024-10-26T08:41:50.166Z
 startTime: 2024-07-23T04:47:21.752Z
 generator: Upptime <https://github.com/upptime/upptime>
