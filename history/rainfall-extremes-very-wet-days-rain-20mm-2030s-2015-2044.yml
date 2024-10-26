@@ -1,7 +1,7 @@
 url: https://vicfutureclimatetool.indraweb.io/indravic_py_server/api/v1/rainfallindices/query?index=wet&emission=rcp45&variable=very_wet_days&frequency=Annual&gcm=access&year=2030&filetype=geojson
 status: down
 code: 502
-responseTime: 143
-lastUpdated: 2024-10-26T08:26:03.654Z
+responseTime: 185
+lastUpdated: 2024-10-26T23:17:58.417Z
 startTime: 2024-07-23T04:53:17.901Z
 generator: Upptime <https://github.com/upptime/upptime>
