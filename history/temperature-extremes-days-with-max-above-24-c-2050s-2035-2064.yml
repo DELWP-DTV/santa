@@ -1,7 +1,7 @@
-url: https://vicfutureclimatetool.indraweb.io/indravic_py_server/api/v1/temperatureindices/query?index=heat&emission=rcp45&variable=tx24_days&frequency=Annual&gcm=hadgem&year=2050&filetype=geojson
+url: https://vicfutureclimatetool.indraweb.io/indravic_py_server/api/v1/temperatureindices/query?index=heat&emission=rcp45&variable=tx24_days&frequency=Annual&gcm=access&year=2050&filetype=geojson
 status: up
 code: 200
-responseTime: 1170
-lastUpdated: 2024-11-05T23:24:23.085Z
+responseTime: 1200
+lastUpdated: 2024-11-06T23:19:26.355Z
 startTime: 2024-07-23T04:52:39.065Z
 generator: Upptime <https://github.com/upptime/upptime>
