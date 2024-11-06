@@ -1,7 +1,7 @@
-url: https://geo.abs.gov.au/arcgis/rest/services/ASGS2016/NRMR/MapServer
+url: https://geo.abs.gov.au/arcgis/rest/services/ASGS2011/NRMR/MapServer
 status: up
 code: 200
 responseTime: 6
-lastUpdated: 2024-11-05T01:34:09.576Z
+lastUpdated: 2024-11-06T01:32:37.599Z
 startTime: 2024-07-23T07:13:44.390Z
 generator: Upptime <https://github.com/upptime/upptime>
