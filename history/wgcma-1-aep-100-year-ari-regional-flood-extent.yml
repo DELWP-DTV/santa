@@ -1,7 +1,7 @@
 url: https://flood-mapping-dtv-geojson.s3.ap-southeast-2.amazonaws.com/geojson/WGCMA_Regional_Extent_23012024.geojson
 status: down
 code: 403
-responseTime: 202
-lastUpdated: 2024-11-07T23:08:57.504Z
+responseTime: 150
+lastUpdated: 2024-11-08T23:08:45.920Z
 startTime: 2024-07-23T04:45:33.744Z
 generator: Upptime <https://github.com/upptime/upptime>
