@@ -1,7 +1,7 @@
 url: https://services.ga.gov.au/gis/mineralogy/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities
 status: up
 code: 200
-responseTime: 308
-lastUpdated: 2024-11-10T23:13:22.488Z
+responseTime: 401
+lastUpdated: 2024-11-11T23:14:04.409Z
 startTime: 2024-07-23T04:49:50.171Z
 generator: Upptime <https://github.com/upptime/upptime>
