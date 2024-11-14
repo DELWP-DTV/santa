@@ -1,7 +1,7 @@
 url: https://gis.environment.gov.au/gispubmap/services/ogc_services/National_Heritage_List/MapServer/WMSServer?request=GetCapabilities&service=WMS
 status: up
 code: 200
-responseTime: 167
-lastUpdated: 2024-11-13T23:12:37.633Z
+responseTime: 212
+lastUpdated: 2024-11-14T23:14:17.637Z
 startTime: 2024-07-23T04:49:19.638Z
 generator: Upptime <https://github.com/upptime/upptime>
