@@ -1,7 +1,7 @@
 url: http://services.ga.gov.au/gis/services/DEM_LiDAR_25m/MapServer/WMSServer
 status: up
 code: 200
-responseTime: 409
-lastUpdated: 2024-11-15T23:12:04.965Z
+responseTime: 411
+lastUpdated: 2024-11-16T23:12:12.675Z
 startTime: 2024-07-23T04:47:42.506Z
 generator: Upptime <https://github.com/upptime/upptime>
