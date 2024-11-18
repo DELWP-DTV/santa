@@ -1,7 +1,7 @@
 url: https://hosting.wsapi.cloud.bom.gov.au/arcgis/rest/services/ahgf/Geofabric_V3x_All_Products/MapServer
-status: down
-code: 504
-responseTime: 10924
-lastUpdated: 2024-11-17T23:15:52.890Z
+status: up
+code: 200
+responseTime: 1090
+lastUpdated: 2024-11-18T07:14:09.837Z
 startTime: 2024-07-23T04:50:49.203Z
 generator: Upptime <https://github.com/upptime/upptime>
