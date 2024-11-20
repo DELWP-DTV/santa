@@ -1,7 +1,7 @@
 url: https://near.csiro.au/public/aremi/dataset/dnsp_yearly_summary.csv
-status: up
-code: 200
-responseTime: 913
-lastUpdated: 2024-11-20T01:24:24.963Z
+status: down
+code: 500
+responseTime: 10204
+lastUpdated: 2024-11-20T08:20:06.291Z
 startTime: 2024-07-23T07:21:42.864Z
 generator: Upptime <https://github.com/upptime/upptime>
