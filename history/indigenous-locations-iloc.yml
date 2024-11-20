@@ -1,7 +1,7 @@
-url: https://geo.abs.gov.au/arcgis/rest/services/ASGS2011/ILOC/MapServer
+url: https://geo.abs.gov.au/arcgis/rest/services/ASGS2016/ILOC/MapServer
 status: up
 code: 200
-responseTime: 253
-lastUpdated: 2024-11-20T01:18:43.578Z
+responseTime: 693
+lastUpdated: 2024-11-20T01:19:06.119Z
 startTime: 2023-09-14T00:56:18.945Z
 generator: Upptime <https://github.com/upptime/upptime>
