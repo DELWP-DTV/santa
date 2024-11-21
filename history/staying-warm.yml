@@ -1,7 +1,7 @@
 url: https://near.csiro.au/public/aremi/dataset/energise_staying_warm.csv
-status: down
-code: 500
-responseTime: 10197
-lastUpdated: 2024-11-20T08:19:01.075Z
+status: up
+code: 200
+responseTime: 205
+lastUpdated: 2024-11-21T01:36:44.000Z
 startTime: 2024-07-23T07:21:41.032Z
 generator: Upptime <https://github.com/upptime/upptime>
