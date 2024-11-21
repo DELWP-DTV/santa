@@ -1,7 +1,7 @@
 url: https://near.csiro.au/public/aremi/dataset/energise_demographics.csv
-status: down
-code: 500
-responseTime: 10198
-lastUpdated: 2024-11-20T08:17:55.803Z
+status: up
+code: 200
+responseTime: 207
+lastUpdated: 2024-11-21T01:36:39.160Z
 startTime: 2024-07-23T07:21:39.758Z
 generator: Upptime <https://github.com/upptime/upptime>
