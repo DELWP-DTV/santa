@@ -1,7 +1,7 @@
-url: https://geo.abs.gov.au/arcgis/rest/services/ASGS2021/SA1/MapServer
+url: https://geo.abs.gov.au/arcgis/rest/services/ASGS2011/SA1/MapServer
 status: up
 code: 200
-responseTime: 606
-lastUpdated: 2024-11-20T01:19:36.344Z
+responseTime: 870
+lastUpdated: 2024-11-21T01:30:29.110Z
 startTime: 2024-07-23T07:13:50.420Z
 generator: Upptime <https://github.com/upptime/upptime>
