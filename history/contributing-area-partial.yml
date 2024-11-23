@@ -1,7 +1,7 @@
 url: https://www.asris.csiro.au/arcgis/rest/services/TERN/SRTM_attributes_3s_ACLEP_AU/MapServer
-status: down
-code: 502
-responseTime: 10526
-lastUpdated: 2024-11-22T23:27:12.142Z
+status: up
+code: 200
+responseTime: 630
+lastUpdated: 2024-11-23T07:21:41.584Z
 startTime: 2024-07-23T05:02:52.843Z
 generator: Upptime <https://github.com/upptime/upptime>
