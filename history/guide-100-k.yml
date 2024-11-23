@@ -1,7 +1,7 @@
 url: http://gaservices.ga.gov.au/site_1/services/Geomorphology_Scale_Guide_WM/MapServer/WMSServer?request=GetCapabilities&service=WMS
 status: up
 code: 200
-responseTime: 179
-lastUpdated: 2024-11-22T23:37:54.666Z
+responseTime: 216
+lastUpdated: 2024-11-23T23:29:19.456Z
 startTime: 2024-07-23T05:04:34.374Z
 generator: Upptime <https://github.com/upptime/upptime>
