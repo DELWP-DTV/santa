@@ -1,7 +1,7 @@
-url: https://vicfutureclimatetool.indraweb.io/indravic_py_server/api/v1/rainfallindices/query?index=wet&emission=rcp45&variable=warm_moist_days&frequency=Annual&gcm=noresm&year=2070&filetype=geojson
+url: https://vicfutureclimatetool.indraweb.io/indravic_py_server/api/v1/rainfallindices/query?index=wet&emission=rcp45&variable=warm_moist_days&frequency=Annual&gcm=hadgem&year=2070&filetype=geojson
 status: down
 code: 404
-responseTime: 216
-lastUpdated: 2024-11-26T23:21:22.994Z
+responseTime: 221
+lastUpdated: 2024-11-26T23:24:25.194Z
 startTime: 2024-07-23T04:53:25.919Z
 generator: Upptime <https://github.com/upptime/upptime>
