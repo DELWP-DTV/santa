@@ -1,7 +1,7 @@
-url: https://calculators.sustainability.vic.gov.au/biomass2018/LGA_paperandcardboard.csv
-status: up
-code: 200
-responseTime: 1115
-lastUpdated: 2024-11-26T01:42:34.602Z
+url: https://calculators.sustainability.vic.gov.au/biomass2018/MSW_Paper and Cardboard.csv
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-11-26T08:07:08.902Z
 startTime: 2024-07-23T07:22:56.819Z
 generator: Upptime <https://github.com/upptime/upptime>
