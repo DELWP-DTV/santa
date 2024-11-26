@@ -1,7 +1,7 @@
-url: https://vicfutureclimatetool.indraweb.io/indravic_py_server/api/v1/spimetrics/query?index=spi6&emission=rcp45&variable=severe_wet&frequency=Annual&gcm=access&year=2030&filetype=geojson
+url: https://vicfutureclimatetool.indraweb.io/indravic_py_server/api/v1/spimetrics/query?index=spi6&emission=rcp45&variable=severe_wet&frequency=Annual&gcm=noresm&year=2030&filetype=geojson
 status: up
 code: 200
-responseTime: 1322
-lastUpdated: 2024-11-26T23:09:26.530Z
+responseTime: 2904
+lastUpdated: 2024-11-26T23:09:50.007Z
 startTime: 2024-07-23T04:45:57.645Z
 generator: Upptime <https://github.com/upptime/upptime>
