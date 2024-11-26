@@ -1,7 +1,7 @@
-url: https://services.aremi.data61.io/aemo/v6/csv/hydro
+url: http://static.aremi.data61.io/datasets/cer/CER_RET_SGU_Hydro.csv
 status: up
 code: 200
-responseTime: 597
-lastUpdated: 2024-11-26T01:40:42.107Z
+responseTime: 249
+lastUpdated: 2024-11-26T01:40:45.765Z
 startTime: 2024-07-23T07:20:56.143Z
 generator: Upptime <https://github.com/upptime/upptime>
