@@ -1,7 +1,7 @@
 url: https://flood-mapping-dtv-geojson.s3.ap-southeast-2.amazonaws.com/geojson/GBCMA_ARI100_RegionalExtent_V1_DTV_1m_simplify_20240514.geojson
 status: up
 code: 200
-responseTime: 19860
-lastUpdated: 2024-11-25T23:09:13.180Z
+responseTime: 5066
+lastUpdated: 2024-11-26T23:08:45.241Z
 startTime: 2024-07-23T04:44:39.664Z
 generator: Upptime <https://github.com/upptime/upptime>
