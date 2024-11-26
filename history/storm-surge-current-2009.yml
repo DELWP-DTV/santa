@@ -1,7 +1,7 @@
 url: https://vicfutureclimatetool.indraweb.io/geoserver//wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&FORMAT=image/png&TRANSPARENT=true&QUERY_LAYERS=indra:storm_tides&tiled=true&LAYERS=indra:storm_tides&FORMAT_OPTIONS=antialias:none&WIDTH=512&HEIGHT=512&STYLES=&SRS=EPSG:3857&CQL_FILTER=SCENARIO='SLR20CM_ST_2040'
 status: up
 code: 200
-responseTime: 205
-lastUpdated: 2024-11-25T23:11:10.784Z
+responseTime: 193
+lastUpdated: 2024-11-26T23:10:17.533Z
 startTime: 2024-07-23T04:46:47.035Z
 generator: Upptime <https://github.com/upptime/upptime>
