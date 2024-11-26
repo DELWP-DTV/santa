@@ -1,7 +1,7 @@
-url: https://vicfutureclimatetool.indraweb.io/indravic_py_server/api/v1/rainfallindices/query?index=wet&emission=rcp45&variable=very_wet_days&frequency=Annual&gcm=access&year=2090&filetype=geojson
+url: https://vicfutureclimatetool.indraweb.io/indravic_py_server/api/v1/rainfallindices/query?index=wet&emission=rcp45&variable=very_wet_days&frequency=Annual&gcm=noresm&year=2090&filetype=geojson
 status: up
 code: 200
-responseTime: 1186
-lastUpdated: 2024-11-26T23:18:07.917Z
+responseTime: 1177
+lastUpdated: 2024-11-26T23:21:20.096Z
 startTime: 2024-07-23T04:53:22.459Z
 generator: Upptime <https://github.com/upptime/upptime>
