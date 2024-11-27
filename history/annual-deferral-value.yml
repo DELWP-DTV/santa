@@ -1,7 +1,7 @@
 url: https://network-opportunity-maps.s3.ap-southeast-2.amazonaws.com/constraints/production/processed_layers/deferral_values_timeseries.csv
 status: up
 code: 200
-responseTime: 306
-lastUpdated: 2024-11-26T01:40:50.943Z
+responseTime: 255
+lastUpdated: 2024-11-27T01:34:28.557Z
 startTime: 2024-07-23T07:21:05.789Z
 generator: Upptime <https://github.com/upptime/upptime>
