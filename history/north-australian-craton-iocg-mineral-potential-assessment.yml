@@ -1,7 +1,7 @@
 url: https://services.ga.gov.au/gis/nac-iocg-min-pot-assmnt/ows
-status: up
-code: 200
-responseTime: 957
-lastUpdated: 2024-11-30T23:12:40.050Z
+status: down
+code: 502
+responseTime: 264
+lastUpdated: 2024-12-01T23:13:39.801Z
 startTime: 2024-07-23T04:50:37.589Z
 generator: Upptime <https://github.com/upptime/upptime>
