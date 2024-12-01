@@ -1,7 +1,7 @@
 url: https://vicfutureclimatetool.indraweb.io/indravic_py_server/api/v1/historicalclimate/query?variable=tmax&frequency=Annual&filetype=geojson
 status: up
 code: 200
-responseTime: 3459
-lastUpdated: 2024-12-01T23:09:17.245Z
+responseTime: 1174
+lastUpdated: 2024-12-01T23:09:31.774Z
 startTime: 2024-07-23T04:45:41.494Z
 generator: Upptime <https://github.com/upptime/upptime>
