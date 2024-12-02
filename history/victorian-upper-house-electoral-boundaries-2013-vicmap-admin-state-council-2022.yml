@@ -1,7 +1,7 @@
-url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Admin/MapServer/15
+url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Admin/MapServer/16
 status: down
 code: 200
-responseTime: 798
-lastUpdated: 2024-12-02T23:06:07.179Z
+responseTime: 205
+lastUpdated: 2024-12-02T23:06:08.321Z
 startTime: 2024-07-23T04:39:21.715Z
 generator: Upptime <https://github.com/upptime/upptime>
