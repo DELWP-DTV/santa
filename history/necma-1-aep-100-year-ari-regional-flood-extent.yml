@@ -1,7 +1,7 @@
 url: https://flood-mapping-dtv-geojson.s3.ap-southeast-2.amazonaws.com/geojson/NECMARegional1PCTExtent.geojson
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-03T23:10:28.187Z
+status: up
+code: 200
+responseTime: 24394
+lastUpdated: 2024-12-04T07:10:03.989Z
 startTime: 2024-07-23T04:44:56.750Z
 generator: Upptime <https://github.com/upptime/upptime>
