@@ -1,7 +1,7 @@
 url: https://flood-mapping-dtv-geojson.s3.ap-southeast-2.amazonaws.com/geojson/NCCMARegional1PCTExtent.geojson
 status: down
 code: 403
-responseTime: 196
-lastUpdated: 2024-12-08T23:08:40.974Z
+responseTime: 148
+lastUpdated: 2024-12-09T23:08:22.620Z
 startTime: 2024-07-23T04:44:53.343Z
 generator: Upptime <https://github.com/upptime/upptime>
