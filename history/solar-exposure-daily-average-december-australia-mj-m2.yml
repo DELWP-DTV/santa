@@ -1,7 +1,7 @@
 url: http://www.bom.gov.au/cgi-bin/ws/gis/ncc/cdio/wxs?service=WMS&version=1.1.1&request=GetCapabilities
 status: up
 code: 200
-responseTime: 154
-lastUpdated: 2024-12-08T01:34:58.061Z
+responseTime: 114
+lastUpdated: 2024-12-09T01:37:45.252Z
 startTime: 2024-07-23T07:20:51.552Z
 generator: Upptime <https://github.com/upptime/upptime>
