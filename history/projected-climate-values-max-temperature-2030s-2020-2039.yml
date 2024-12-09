@@ -1,7 +1,7 @@
-url: https://vicfutureclimatetool.indraweb.io/indravic_py_server/api/v1/projectedclimate/query?gcm=noresm&emission=rcp45&variable=tmax&year=2030&frequency=Annual&filetype=geojson
+url: https://vicfutureclimatetool.indraweb.io/indravic_py_server/api/v1/projectedclimate/query?gcm=hadgem&emission=rcp45&variable=tmax&year=2030&frequency=Annual&filetype=geojson
 status: up
 code: 200
-responseTime: 1751
-lastUpdated: 2024-12-09T23:17:35.532Z
+responseTime: 1226
+lastUpdated: 2024-12-09T23:20:40.541Z
 startTime: 2024-07-23T04:51:32.820Z
 generator: Upptime <https://github.com/upptime/upptime>
