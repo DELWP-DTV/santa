@@ -1,7 +1,7 @@
 url: https://gis.environment.gov.au/gispubmap/services/ogc_services/Commonwealth_Marine_Regions/MapServer/WMSServer?request=GetCapabilities&service=WMS
 status: up
 code: 200
-responseTime: 192
-lastUpdated: 2024-12-10T23:11:40.396Z
+responseTime: 188
+lastUpdated: 2024-12-11T23:11:39.890Z
 startTime: 2024-07-23T04:49:16.768Z
 generator: Upptime <https://github.com/upptime/upptime>
