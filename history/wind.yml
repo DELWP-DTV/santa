@@ -1,7 +1,7 @@
-url: http://static.aremi.data61.io/datasets/cer/CER_RET_SGU_Wind.csv
+url: https://services.aremi.data61.io/aemo/v6/csv/wind
 status: up
 code: 200
-responseTime: 197
-lastUpdated: 2024-12-15T01:22:48.033Z
+responseTime: 339
+lastUpdated: 2024-12-16T01:34:18.778Z
 startTime: 2024-07-23T07:20:58.155Z
 generator: Upptime <https://github.com/upptime/upptime>
