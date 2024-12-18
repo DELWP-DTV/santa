@@ -1,7 +1,7 @@
 url: https://spatial.infrastructure.gov.au/server/services/Peri_Urban_Mobile_Program_PUMP_Round_1/MapServer/WMSServer?request=GetCapabilities&service=WMS&version=1.3.0
 status: up
 code: 200
-responseTime: 224
-lastUpdated: 2024-12-17T23:09:52.459Z
+responseTime: 282
+lastUpdated: 2024-12-18T23:11:18.183Z
 startTime: 2024-07-23T04:47:39.367Z
 generator: Upptime <https://github.com/upptime/upptime>
