@@ -1,7 +1,7 @@
-url: https://vicfutureclimatetool.indraweb.io/indravic_py_server/api/v1/temperatureindices/query?index=heat&emission=rcp45&variable=tn2_nights&frequency=Annual&gcm=hadgem&year=2030&filetype=geojson
+url: https://vicfutureclimatetool.indraweb.io/indravic_py_server/api/v1/temperatureindices/query?index=heat&emission=rcp45&variable=tn2_nights&frequency=Annual&gcm=access&year=2030&filetype=geojson
 status: down
 code: 404
-responseTime: 170
-lastUpdated: 2024-12-17T23:21:06.936Z
+responseTime: 231
+lastUpdated: 2024-12-18T23:16:29.437Z
 startTime: 2024-07-23T04:52:47.852Z
 generator: Upptime <https://github.com/upptime/upptime>
