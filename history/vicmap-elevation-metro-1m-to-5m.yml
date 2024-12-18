@@ -1,7 +1,7 @@
 url: https://enterprise.mapshare.vic.gov.au/server/rest/services/Vicmap_Elevation_METRO_1_to_5_metre/MapServer
 status: down
 code: 200
-responseTime: 200
-lastUpdated: 2024-12-17T23:07:25.006Z
+responseTime: 250
+lastUpdated: 2024-12-18T23:06:52.116Z
 startTime: 2024-07-23T04:42:26.819Z
 generator: Upptime <https://github.com/upptime/upptime>
