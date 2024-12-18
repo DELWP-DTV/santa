@@ -1,7 +1,7 @@
 url: http://www.bom.gov.au/waterdata/services?service=SOS&version=2.0&request=GetCapabilities
 status: up
 code: 200
-responseTime: 329
-lastUpdated: 2024-12-18T23:11:05.142Z
+responseTime: 395
+lastUpdated: 2024-12-18T23:11:06.536Z
 startTime: 2024-07-23T04:47:11.559Z
 generator: Upptime <https://github.com/upptime/upptime>
