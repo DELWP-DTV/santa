@@ -1,7 +1,7 @@
 url: https://ev-infrastructure-mapping.s3-ap-southeast-2.amazonaws.com/chargers_by_GETcode_prototype.csv
 status: down
 code: 403
-responseTime: 145
-lastUpdated: 2024-12-19T23:25:10.894Z
+responseTime: 210
+lastUpdated: 2024-12-20T23:28:06.561Z
 startTime: 2024-07-23T05:03:15.966Z
 generator: Upptime <https://github.com/upptime/upptime>
