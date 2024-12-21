@@ -1,7 +1,7 @@
 url: https://flood-mapping-dtv-geojson.s3.ap-southeast-2.amazonaws.com/geojson/CCMARegional1PCTExtent_coastal_20231208.geojson
 status: down
 code: 403
-responseTime: 208
-lastUpdated: 2024-12-20T23:08:23.609Z
+responseTime: 148
+lastUpdated: 2024-12-21T23:07:45.836Z
 startTime: 2024-07-23T04:44:36.013Z
 generator: Upptime <https://github.com/upptime/upptime>
