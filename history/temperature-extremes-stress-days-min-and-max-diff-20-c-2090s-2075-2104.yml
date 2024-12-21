@@ -1,7 +1,7 @@
-url: https://vicfutureclimatetool.indraweb.io/indravic_py_server/api/v1/temperatureindices/query?index=heat&emission=rcp45&variable=stress_days&frequency=Annual&gcm=hadgem&year=2090&filetype=geojson
+url: https://vicfutureclimatetool.indraweb.io/indravic_py_server/api/v1/temperatureindices/query?index=heat&emission=rcp45&variable=stress_days&frequency=Annual&gcm=access&year=2090&filetype=geojson
 status: down
 code: 404
-responseTime: 227
-lastUpdated: 2024-12-20T23:22:54.919Z
+responseTime: 190
+lastUpdated: 2024-12-21T23:14:50.473Z
 startTime: 2024-07-23T04:53:09.696Z
 generator: Upptime <https://github.com/upptime/upptime>
