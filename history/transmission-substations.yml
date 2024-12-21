@@ -1,7 +1,7 @@
-url: https://uts-nom.herokuapp.com/capacity/published/combined-transmission-substations.csv
+url: https://services.ga.gov.au/gis/rest/services/Foundation_Electricity_Infrastructure/MapServer
 status: up
 code: 200
-responseTime: 342
-lastUpdated: 2024-12-20T01:26:15.400Z
+responseTime: 218
+lastUpdated: 2024-12-21T01:30:18.226Z
 startTime: 2024-07-23T07:15:20.245Z
 generator: Upptime <https://github.com/upptime/upptime>
