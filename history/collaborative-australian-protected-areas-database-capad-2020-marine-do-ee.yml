@@ -1,7 +1,7 @@
 url: https://gis.environment.gov.au/gispubmap/rest/services/ogc_services/CAPAD_MARINE/MapServer/WMSServer
 status: down
 code: 200
-responseTime: 249
-lastUpdated: 2024-12-20T23:13:46.023Z
+responseTime: 190
+lastUpdated: 2024-12-21T23:12:37.893Z
 startTime: 2024-07-23T04:50:30.455Z
 generator: Upptime <https://github.com/upptime/upptime>
