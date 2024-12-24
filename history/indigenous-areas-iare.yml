@@ -1,7 +1,7 @@
-url: https://geo.abs.gov.au/arcgis/rest/services/ASGC2001/IARE/MapServer
+url: https://geo.abs.gov.au/arcgis/rest/services/ASGC2006/IARE/MapServer
 status: up
 code: 200
-responseTime: 677
-lastUpdated: 2024-12-24T01:17:11.443Z
+responseTime: 697
+lastUpdated: 2024-12-24T01:17:29.556Z
 startTime: 2023-09-14T00:56:17.406Z
 generator: Upptime <https://github.com/upptime/upptime>
