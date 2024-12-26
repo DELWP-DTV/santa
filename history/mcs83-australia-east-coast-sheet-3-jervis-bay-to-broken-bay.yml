@@ -1,7 +1,7 @@
 url: https://mapwarper.prov.vic.gov.au/maps/wms/7272?request=GetCapabilities&service=WMS&version=1.1.1
 status: up
 code: 200
-responseTime: 218
-lastUpdated: 2024-12-25T00:23:47.365Z
+responseTime: 165
+lastUpdated: 2024-12-26T00:17:51.520Z
 startTime: 2024-07-23T06:03:14.303Z
 generator: Upptime <https://github.com/upptime/upptime>
